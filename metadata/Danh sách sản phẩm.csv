@@ -1,0 +1,818 @@
+STT,Admin ph? trách,Tên trên visa,Ho?t ch?t,"N?ng ??, hàm l??ng",D?ng bào ch?,???ng dùng,D?ng trình bày
+1,Ng?c Trâm,"Vesanoid (C? s? ?óng gói s? c?p: Cenexi. ?/c: 52 Rue Marcel et Jacques Gaucher, 94120 Fontenay-sous-bois, France; ?óng gói th? c?p & xu?t x??ng: Cheplapharm Arzneimittel GmbH – ?/c: Bahnhofstr. 1a, 17498, Mesekenhagen, Germany; C? s? ki?m nghi?m lô: Catalent Germany Eberbach GmbH- ?/c: Gammelsbacher Str.2, 69412 Eberbach, Germany)",Tretinoin,10mg,Viên nang m?m,U?ng,Viên
+2,Ng?c Trâm,Histalong,Cetirizin hydrochloride,10mg,Viên nén bao phim,U?ng,Viên
+3,Ng?c Trâm,Histalong L,Levocetirizin,5mg,Viên nén bao phim,U?ng,Viên
+4,Ng?c Trâm,Omez,Omeprazol,20mg,Viên nang c?ng,U?ng,Viên
+5,Ng?c Trâm,Konimag,Gel khô nhôm hydroxyd + Magnesi trisilicat + Simethicon,300mg + 300mg + 25mg,H?n d?ch u?ng,U?ng,Gói 7ml
+6,H?o Võ,Atcobeta-N,Betamethasone valerate + Neomycin sulphate,"0,1% + 0,5%",Thu?c m?,Dùng ngoài,Tuýp 15g
+7,H?o Võ,Atcobeta-S,Betamethason (d??i d?ng betamethason dipropionat) + Acid salicylic,"(0,5mg + 30mg)/1g",Thu?c m?,Dùng ngoài,Tuýp 15g
+8,H?o Võ,Clobetsonate Ointment,Clobetasol propionate,"0,05% w/w",Thu?c m?,Dùng ngoài,Tuýp 15g
+9,H?o Võ,Montemax 10mg tablets,Montelukast natri,10mg,Viên nén bao phim,U?ng,Viên
+10,H?o Võ,Montemax 5mg,Montelukast (d??i d?ng Montelukast natri),5mg,Viên nén nhai,U?ng,Viên
+11,H?o Võ,Zincviet,K?m (d??i d?ng K?m sulfat monohydrat),120mg,C?m pha h?n d?ch,U?ng,Chai 60ml
+12,H?o Võ,Candid,Clotrimazole,1% (w/w),Kem,Dùng ngoài,Tuýp 20g
+13,H?o Võ,Candid,Clotrimazole,1% kl/tt,Dung d?ch nh? tai,Nh? tai,L? 15ml
+14,H?o Võ,Candid,Clotrimazole,1% kl/kl,Thu?c b?t dùng ngoài,Dùng ngoài,L? 30g
+15,H?o Võ,Candid B,Clotrimazole + Anhydrous Beclometasone Dipropionate,"1% (w/w) + 0,025% (w/w)",Kem bôi ngoài da,Dùng ngoài,Tuýp 15g
+16,H?o Võ,Candid Mouth Paint,Clotrimazole,1% kl/tt,Dung d?ch bôi mi?ng,Dùng ngoài,L? 15ml
+17,H?o Võ,Candid TV,M?i chai 60ml ch?a: Clotrimazole + Selen Sulfide,600mg + 1500mg,H?n d?ch dùng ngoài da,Dùng ngoài,Chai 60ml
+18,H?o Võ,Candid V1,Clotrimazol,500mg,Viên nén ??t âm ??o,??t âm ??o,Viên
+19,H?o Võ,Candid V1,Clotrimazol,500mg,Viên nén ??t âm ??o,??t âm ??o,Viên
+20,H?o Võ,Candid V3,Clotrimazol,200mg,Viên nén ??t âm ??o,??t âm ??o,Viên
+21,H?o Võ,Candid V3,Clotrimazol,200mg,Viên nén ??t âm ??o,??t âm ??o,Viên
+22,H?o Võ,Candiderm,Clotrimazole + Anhydrous Beclomethasone Dipropionate + Gentamycin Sulphate,"1% w/w + 0,025% w/w + 0.1% w/w",Kem,Dùng ngoài,Tuýp 15g
+23,H?o Võ,Candid-V,Clotrimazole,2% kl/kl,Emulgel âm ??o,Emulgel âm ??o,Tuýp 30g kèm ?ng b?m
+24,H?o Võ,Candid-V6,Clotrimazol,100mg,Viên nén ??t âm ??o,??t âm ??o,Viên
+25,H?o Võ,Canditral,Itraconazole (d?ng vi h?t),100mg,Viên nang c?ng,U?ng,Viên
+26,H?o Võ,Combiwave B 100,Beclometasone dipropionate,100 µg (mcg),Thu?c hít d?ng phun s??ng,Thu?c hít,Bình
+27,H?o Võ,Combiwave B 200,M?i li?u hít ch?a Beclometason dipropionat,200mcg,Thu?c hít d?ng phun s??ng,Thu?c hít,Bình
+28,H?o Võ,Combiwave B 50,Beclometasone dipropionate,50mcg/li?u hít,Thu?c hít d?ng phun s??ng,Thu?c hít,Bình
+29,H?o Võ,Combiwave FB 100,"M?i li?u phóng thích (li?u qua ??u ng?m) ch?a: Budesonid 80mcg/l?n hít và formoterol fumarat dihydrat 4,5mcg/l?n hít, t??ng ???ng m?t li?u chu?n ?? g?m budesonid 100mcg/l?n hít và formoterol fumarat dihydrat 6mcg/l?n hít",100mcg + 6mcg,Thu?c hít ??nh li?u d?ng phun mù,Thu?c hít,Bình x?t 120 li?u
+30,H?o Võ,Combiwave FB 100,"M?i li?u phóng thích (li?u qua ??u ng?m) ch?a: Budesonid 80mcg/l?n hít + formoterol fumarat dihydrat 4,5mcg/l?n hít, t??ng ???ng m?t li?u chu?n ?? g?m budesonid 100mcg/l?n hít + formoterol fumarat dihydrat 6mcg/l?n hít",100mcg + 6mcg,Thu?c hít ??nh li?u d?ng phun mù,Thu?c hít,Bình
+31,H?o Võ,Combiwave FB 200,"M?i li?u phóng thích (li?u qua ??u ng?m) ch?a: Budesonid 160mcg/l?n hít và formoterol fumarat dihydrat 4,5mcg/l?n hít, t??ng ???ng m?t li?u chu?n ?? g?m budesonid 200mcg/l?n hít và formoterol fumarat dihydrat 6mcg/l?n hít",200mcg + 6mcg,Thu?c hít ??nh li?u d?ng phun mù,Thu?c hít,Bình x?t 120 li?u
+32,H?o Võ,Combiwave FB 200,"M?i li?u phóng thích (li?u qua ??u ng?m) ch?a: Budesonid 160mcg/l?n hít + formoterol fumarat dihydrat 4,5mcg/l?n hít, t??ng ???ng m?t li?u chu?n ?? g?m budesonid 200mcg/l?n hít + formoterol fumarat dihydrat 6mcg/l?n hít",200mcg + 6mcg,Thu?c hít ??nh li?u d?ng phun mù,Thu?c hít,Bình
+33,H?o Võ,Combiwave SF 125,M?i li?u hít ch?a Salmeterol 25mcg (d??i d?ng Salmeterol xinafoate) và Fluticason propionat 125mcg,25mcg + 125mcg,Thu?c hít ??nh li?u,Thu?c hít,Bình x?t 120 li?u
+34,H?o Võ,Combiwave SF 125,M?i li?u hít ch?a Salmeterol (d??i d?ng Salmeterol xinafoate) + Fluticason propionat,25mcg + 125mcg,Thu?c hít ??nh li?u,Thu?c hít,Bình
+35,H?o Võ,Combiwave SF 250,"M?i li?u hít ch?a: Fluticasone Propionate 250µg (mcg), Salmeterol xinafoate t??ng ???ng Salmeterol 25µg (mcg)",250µg (mcg) + 25µg (mcg),Thu?c hít ??nh li?u d?ng khí dung,Thu?c hít,Bình
+36,H?o Võ,Flexilor 4,Lornoxicam,4mg,Viên nén bao phim,U?ng,Viên
+37,H?o Võ,Flucort-N,Fluocinolone acetonide + Neomycin sulfate,"0,025% (w/w) + 0,5% (w/w)",Cream,Dùng ngoài,Tuýp 15g
+38,H?o Võ,Flusort,M?i li?u x?t ch?a: Fluticasone propionate,50mcg,H?n d?ch x?t m?i,X?t m?i,Bình
+39,H?o Võ,Flusort,M?i li?u x?t ch?a: Fluticasone propionate,50mcg,Thu?c x?t m?i,Thu?c x?t m?i,Bình
+40,H?o Võ,Glemont - IR 10,Montelukast (d??i d?ng montelukast sodium),10mg,Viên nén bao phim,U?ng,Viên
+41,H?o Võ,Glemont - IR 10,Montelukast (d??i d?ng montelukast sodium) 10mg,10mg,Viên nén bao phim,U?ng,Viên
+42,H?o Võ,Glemont CT 4,Montelukast (d??i d?ng Montelukast natri),4mg,Viên nén nhai,U?ng,Viên
+43,H?o Võ,Glemont CT 5,Montelukast (d??i d?ng Montelukast natri),5mg,Viên nén nhai,U?ng,Viên
+44,H?o Võ,Glencet,Levocetirizin dihydrochlorid,5mg,Viên nén bao phim,U?ng,Viên
+45,H?o Võ,Glentaz Forte,Tazarotene,"0,1% kl/kl",Kem bôi ngoài da,Dùng ngoài,Tuýp 15g
+46,H?o Võ,Glesoz 20,Esomeprazol (d??i d?ng Esomeprazol magie trihydrat),20mg,Viên nén bao tan trong ru?t,U?ng,Viên
+47,H?o Võ,Imiquad,Imiquimod,5.00% (w/w),Kem bôi ngoài da,Dùng ngoài,"Gói 0,25g"
+48,H?o Võ,Klenzit MS,Adapalen (d?ng vi c?u),"0,1% (KL/KL)",Gel bôi ngoài da,Dùng ngoài,Tuýp 15 gam
+49,H?o Võ,Klenzit MS,Adapalen (d?ng vi c?u),"0,1% (KL/KL)",Gel bôi ngoài da,Dùng ngoài,Tuýp 15 gam
+50,H?o Võ,Klenzit-C,M?i gam ch?a: Adapalene + Clindamycin (d??i d?ng Clindamycin phosphat),1mg + 10mg,Gel bôi ngoài da,Dùng ngoài,Tuýp 15g
+51,H?o Võ,Momate,Mometasone furoate,"0,1 % (w/w)",Kem bôi ngoài da,Dùng ngoài,Tuýp 15g
+52,H?o Võ,Momate,Mometasone furoate (d??i d?ng Mometasone furoate monohydrate) ,"0,05% (w/w)",H?n d?ch x?t m?i,X?t m?i,Chai 140 li?u
+53,H?o Võ,Momate,Mometasone furoate (d??i d?ng Mometasone furoate monohydrate) ,"0,05% (w/w)",H?n d?ch x?t m?i,X?t m?i,Chai 140 li?u
+54,H?o Võ,Momate,Mometasone furoate (d??i d?ng Mometasone furoate monohydrate),"0,05% (w/w)",H?n d?ch x?t m?i,X?t m?i,Chai 60 li?u
+55,H?o Võ,Momate,Mometasone furoate (d??i d?ng Mometasone furoate monohydrate),"0,05% (w/w)",H?n d?ch x?t m?i,X?t m?i,Chai 60 li?u
+56,H?o Võ,Powercort,Clobetasol propionate,"0,05% (kl/kl)",Kem bôi da,Dùng ngoài,Tuýp 15 gam
+57,H?o Võ,Powercort,Clobetasol propionate,"0,05% (kl/kl)",Kem bôi da,Dùng ngoài,Tuýp 15 gam
+58,H?o Võ,Saferon,Ph?c h?p s?t III Hydroxid Polymaltose t??ng ???ng s?t nguyên t? + Folic acid,100mg + 500mcg,Viên nén nhai,U?ng,Viên
+59,H?o Võ,Saferon,Ph?c h?p s?t III Hydroxid Polymaltose t??ng ???ng s?t nguyên t? + Folic acid,100mg + 500mcg,Viên nén nhai,U?ng,Viên
+60,H?o Võ,Saferon,S?t nguyên t? (d??i d?ng S?t (III) Hydroxid Polymaltose Complex),50mg/ml,Dung d?ch u?ng,U?ng,L? 15ml
+61,H?o Võ,Saferon,S?t nguyên t? (d??i d?ng ph?c h?p S?t (III) hydroxid polymaltose),50mg/5ml,Si rô,U?ng,Chai 100ml
+62,H?o Võ,Saferon,S?t nguyên t? (d??i d?ng ph?c h?p S?t (III) hydroxid polymaltose),50mg/5ml,Si rô,U?ng,Chai 100ml
+63,H?o Võ,Supirocin,Mupirocin,2% (w/w),Thu?c m?,Dùng ngoài,Tuýp 5g
+64,H?o Võ,Supirocin,Mupirocin,2% (w/w),Thu?c m?,Dùng ngoài,Tuýp 5g
+65,H?o Võ,Supirocin-B,Mupirocin + Betamethasone dipropionate t??ng ???ng v?i betamethasone,"2% (w/w) + 0,05% (w/w)",Thu?c m? bôi ngoài da,Dùng ngoài,Tuýp 5g
+66,H?o Võ,Supirocin-B,Mupirocin + Betamethasone dipropionate t??ng ???ng v?i betamethasone,"2% (w/w) + 0,05% (w/w)",Thu?c m? bôi ngoài da,Dùng ngoài,Tuýp 5g
+67,H?o Võ,Tacroz,Tacrolimus,"0,03% (w/w)",Thu?c m? bôi ngoài da,Dùng ngoài,Tuýp 10g
+68,H?o Võ,Tacroz Forte,Tacrolimus,"0,1% (kl/kl)",Thu?c m?,Dùng ngoài,Tuýp 10g
+69,H?o Võ,Tacroz Forte,Tacrolimus," 0,1% (kl/kl)",Thu?c m?,Dùng ngoài,Tuýp 10g
+70,H?o Võ,Telma 20,Telmisartan,20mg,Viên nén bao phim,U?ng,Viên
+71,H?o Võ,Telma 40,Telmisartan,40mg,Viên nén bao phim,U?ng,Viên
+72,H?o Võ,Telma 80 H,Hydrochlorothiazide + Telmisartan,"12,5mg + 80mg",Viên nén,U?ng,Viên
+73,H?o Võ,Telma 80 H Plus,Telmisartan + Hydrochlorothiazid,80mg + 25mg,Viên nén,U?ng,Viên
+74,H?o Võ,Pemehope 100,Pemetrexed (d??i d?ng Pemetrexed dinatri hemipentahydrate),100mg,B?t ?ông khô pha dung d?ch tiêm truy?n,Tiêm truy?n,L?
+75,H?o Võ,Pemehope 500,Pemetrexed (d??i d?ng Pemetrexed dinatri heptahydrate),500mg,B?t ?ông khô pha dung d?ch truy?n t?nh m?ch,Truy?n t?nh m?ch,L?
+76,H?o Võ,Ferlatum,M?i l? 15ml dung d?ch ch?a: S?t (III) (d??i d?ng s?t protein succinylat,40mg (800mg),Dung d?ch u?ng,U?ng,L? 15ml
+77,H?o Võ,"Ferlatum (?óng gói th? c?p: CIT S.r.l. ?/c: Via Primo Villa, 17-20875 Burago di Molgora (MB), Italy)",S?t (III) (d??i d?ng s?t protein succinylat),40mg (800mg),Dung d?ch u?ng,U?ng,L? 15ml
+78,H?o Võ,"Ferlatum Fol (C? s? s?n xu?t n?p v?n ch?a thu?c: ABC Farmaceutici S.p.A. ??a ch?: Via Canton Moretti, 29 Localita San Bernado-Ivrea Torino, Italy","S?t - Protein succinylate (t??ng ?ng 40mg ion Fe III+) + Acid Folinic (d??i d?ng Calci folinat pentahydrat: 0,235mg)","800mg + 0,185mg",Dung d?ch u?ng,U?ng,L? ??n li?u v?i n?p v?n ch?a thu?c
+79,H?o Võ,Flexen,Ketoprofen,"2,5%",Gel,Thu?c bôi ngoài da,Tuýp 50g
+80,H?o Võ,Gemapaxane,Enoxaparin natri,"2000IU/0,2ml",Dung d?ch tiêm,Tiêm,"B?m tiêm 0,2ml"
+81,H?o Võ,Gemapaxane,Enoxaparin natri,"2000IU/0,2ml",Dung d?ch tiêm,Tiêm,"B?m tiêm 0,2ml"
+82,H?o Võ,Gemapaxane,Enoxaparin natri,"4000IU/0,4ml",Dung d?ch tiêm,Tiêm,"B?m tiêm 0,4ml"
+83,H?o Võ,Gemapaxane,Enoxaparin natri,"4000IU/0,4ml",Dung d?ch tiêm,Tiêm,"B?m tiêm 0,4ml"
+84,H?o Võ,Gemapaxane,Enoxaparin natri,"6000IU/0,6ml",Dung d?ch tiêm,Tiêm,"B?m tiêm 0,6ml"
+85,H?o Võ,Gemapaxane,Enoxaparin natri,"6000IU/0,6ml",Dung d?ch tiêm,Tiêm,"B?m tiêm 0,6ml"
+86,H?o Võ,Natecal D3,Calci nguyên t? (d??i d?ng Calci carbonat) + Cholecalciferol (Vitamin D3),600mg + 400IU,Viên nén rã trong mi?ng,U?ng,Viên
+87,H?o Võ,Natecal D3,Calci nguyên t? (d??i d?ng Calci carbonat) + Cholecalciferol (Vitamin D3),600mg + 400IU,Viên nén rã trong mi?ng,U?ng,Viên
+88,H?o Võ,"Natecal D3 (CSSX khâu ??u t?o h?t Calci carbonat v?i Maltodextrin: Fine Foods NMT S.P.A., ?/c: Via dell' Artigianato 8/10 - 24041 Brembate (BG), Ý; CS?G th? c?p: Neologistica S.R.L.; ?/c: Largo Umberto Boccioni, 1 -21040 Origgio (VA) Ý)",Calci (d??i d?ng calci carbonat) + Cholecalciferol,"600mg + 400IU (0,01mg)",Viên nhai,U?ng,Viên
+89,H?o Võ,Fluomizin,Dequalinium chloride,10mg,Viên nén ??t âm ??o,??t âm ??o,Viên
+90,H?o Võ,Gynoflor,Lactobacillus acidophilus + Estriol,"10? - 10¹? cfu; 0,03mg",Viên nén ??t âm ??o,??t âm ??o,Viên
+91,H?o Võ,Gynoflor,Lactobacillus acidophilus + Estriol,"10? - 10¹? cfu; 0,03mg",Viên nén ??t âm ??o,??t âm ??o,Viên
+92,H?o Võ,Gynoflor,Lactobacillus acidophilus + Estriol,"10? - 10¹? cfu; 0,03mg",Viên nén ??t âm ??o,??t âm ??o,Viên
+93,H?o Võ,Gynoflor,Lactobacillus acidophilus + Estriol,"10? - 10¹? cfu; 0,03mg",Viên nén ??t âm ??o,??t âm ??o,Viên
+94,H?o Võ,Hirudoid Forte,Mucopolysaccharide polysulphate,445mg/100g,Kem bôi da,Dùng ngoài,Tuýp 14g
+95,H?o Võ,Ciloxan,Ciprofloxacin (d??i d?ng Ciprofloxacin hydroclorid monohydrat),3mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+96,H?o Võ,Ciloxan,Ciprofloxacin (d??i d?ng Ciprofloxacin hydroclorid monohydrat),3mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+97,H?o Võ,Ciloxan,Ciprofloxacin (d??i d?ng Ciprofloxacin hydroclorid monohydrat),3mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+98,H?o Võ,Flarex,Fluorometholone acetate,1mg/ml,H?n d?ch nh? m?t vô khu?n,Nh? m?t,L? ??m gi?t Droptainer 5 ml
+99,H?o Võ,Maxitrol,Dexamethason + Neomycin sulfat + Polymyxin B sulfat,(1mg + 3500IU + 6000IU)/ml,H?n d?ch nh? m?t,Nh? m?t,L? ??m gi?t 5ml
+100,H?o Võ,Maxitrol,Dexamethason + Neomycin sulfat + Polymyxin B sulfat,(1mg + 3500IU + 6000IU)/ml,H?n d?ch nh? m?t,Nh? m?t,L? ??m gi?t 5ml
+101,H?o Võ,Maxitrol,Dexamethason + Neomycin sulfat + Polymyxin B sulfat,(1mg + 3500IU + 6000IU)/gram,Thu?c m? tra m?t,Tra m?t,"Tuýp 3,5g"
+102,H?o Võ,Maxitrol,Dexamethason + Neomycin sulfat + Polymyxin B sulfat,(1mg + 3500IU + 6000IU)/gram,Thu?c m? tra m?t,Tra m?t,"Tuýp 3,5g"
+103,H?o Võ,Nevanac,Nepafenac,1mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+104,H?o Võ,Nevanac,Nepafenac,1mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+105,H?o Võ,Pataday,Olopatadine hydrochloride,"0,2% ",Dung d?ch nh? m?t,Nh? m?t,"Chai 2,5ml"
+106,H?o Võ,Tobradex,Tobramycin + Dexamethasone,(3mg + 1mg)/1ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+107,H?o Võ,Tobradex,Tobramycin + Dexamethasone,(3mg + 1mg)/1ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+108,H?o Võ,Tobradex,Tobramycin + Dexamethasone,(3mg + 1mg)/gram,M? tra m?t,Tra m?t,"Tuýp 3,5g"
+109,H?o Võ,Tobradex,Tobramycin + Dexamethasone,(3mg + 1mg)/gram,M? tra m?t,Tra m?t,"Tuýp 3,5g"
+110,H?o Võ,Tobrex,Tobramycin,3mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5 ml
+111,H?o Võ,Tobrex,Tobramycin,3mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5 ml
+112,H?o Võ,Tobrex,Tobramycin,3mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5 ml
+113,H?o Võ,Vigadexa,Dexamethason phosphat (d??i d?ng Dexamethason dinatri phosphat) + Moxifloxacin (d??i d?ng Moxifloxacin hydroclorid),1mg/ml + 5mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+114,H?o Võ,Vigamox,Moxifloxacin (d??i d?ng Moxifloxacin hydrochlorid),5mg/1ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+115,H?o Võ,Azarga,Brinzolamide + Timolol (d??i d?ng Timolol maleate),10mg/ml + 5mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+116,H?o Võ,Azarga,Brinzolamide + Timolol (d??i d?ng Timolol maleate),10mg/ml + 5mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+117,H?o Võ,Azopt,Brinzolamide,10mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+118,H?o Võ,Azopt,Brinzolamide,10mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+119,H?o Võ,Duotrav,Travoprost + Timolol (d??i d?ng Timolol maleate),"0,04mg/ml + 5mg/ml",Dung d?ch nh? m?t,Nh? m?t,"L? 2,5ml"
+120,H?o Võ,Duotrav,Travoprost + Timolol (d??i d?ng Timolol maleate),"0,04mg/ml + 5mg/ml",Dung d?ch nh? m?t,Nh? m?t,"L? 2,5ml"
+121,H?o Võ,Lucentis,Ranibizumab,"1,65mg/0,165ml",Dung d?ch tiêm,Tiêm,"B?m tiêm ?óng s?n thu?c 0,165ml"
+122,H?o Võ,Lucentis,Ranibizumab,"1,65mg/0,165ml",Dung d?ch tiêm,Tiêm,"B?m tiêm ?óng s?n thu?c 0,165ml"
+123,H?o Võ,Lucentis,Ranibizumab,"2,3mg/0,23ml",Dung d?ch tiêm,Tiêm,"01 l? x 0,23ml và 01 kim l?c ?? rút thu?c trong l?"
+124,H?o Võ,Simbrinza,Brinzolamid + Brimonidin tartrat,10mg/ml + 2mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? ??m gi?t Droptainer 5ml
+125,H?o Võ,Simbrinza,Brinzolamid + Brimonidin tartrat,10mg/ml + 2mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? ??m gi?t Droptainer 5ml
+126,H?o Võ,Travatan,Travoprost,"0,04mg/ml",Dung d?ch thu?c nh? m?t,Nh? m?t,"L? 2,5ml"
+127,H?o Võ,Travatan,Travoprost,"0,04mg/ml",Dung d?ch thu?c nh? m?t,Nh? m?t,"L? 2,5ml"
+128,H?o Võ,Cataflam 25,Diclofenac kali,25mg,Viên nén bao ???ng,U?ng,Viên
+129,H?o Võ,Cataflam 50,Diclofenac kali,50mg,Viên nén bao ???ng,U?ng,Viên
+130,H?o Võ,Voltaren,Natri diclofenac,75mg,Viên nén phóng thích ch?m,U?ng,Viên
+131,H?o Võ,Voltaren,Diclofenac natri,100mg,Viên ??n,??t tr?c tràng,Viên
+132,H?o Võ,Voltaren 25,Diclofenac natri,25mg,Viên nén bao tan trong ru?t,U?ng,Viên
+133,H?o Võ,Voltaren 50,Diclofenac Sodium,50mg,Viên nén không tan trong d? dày,U?ng,Viên
+134,H?o Võ,Voltaren 75mg/3ml,Diclofenac natri,75mg/3ml,Dung d?ch thu?c tiêm,Tiêm,?ng 3ml
+135,H?o Võ,Aerius,Desloratadine,"0,5mg/ml",Siro,U?ng,Chai 60ml
+136,H?o Võ,Aerius,Desloratadin,"0,5mg/ml",Siro,U?ng,Chai 60ml
+137,H?o Võ,Aerius,Desloratadine,5mg,Viên nén bao phim,U?ng,Viên
+138,H?o Võ,Aerius,Desloratadine,5mg,Viên nén bao phim,U?ng,Viên
+139,H?o Võ,Atozet 10mg/10mg,Ezetimibe (d??i d?ng micronized) + Atorvastatin (d??i d?ng Atorvastatin calci trihydrat crystalline),10mg + 10mg,Viên nén bao phim,U?ng,Viên
+140,H?o Võ,Atozet 10mg/20mg,Ezetimibe (d??i d?ng micronized) + Atorvastatin (d??i d?ng Atorvastatin calci trihydrat crystalline),10mg + 20mg,Viên nén bao phim,U?ng,Viên
+141,H?o Võ,Atozet 10mg/40mg,Ezetimibe (d??i d?ng micronized) + Atorvastatin (d??i d?ng Atorvastatin calci trihydrat crystalline),10mg + 40mg,Viên nén bao phim,U?ng,Viên
+142,H?o Võ,Cozaar 100mg,Losartan potassium,100mg,Viên nén bao phim,U?ng,Viên
+143,H?o Võ,Cozaar 100mg,Losartan potassium,100mg,Viên nén bao phim,U?ng,Viên
+144,H?o Võ,Cozaar 50mg,Losartan potassium,50mg,Viên nén bao phim,U?ng,Viên
+145,H?o Võ,Cozaar 50mg,Losartan potassium,50mg,Viên nén bao phim,U?ng,Viên
+146,H?o Võ,Cozaar XQ 5mg/100mg (C? s? ?óng gói: Merck Sharp & Dohme B.V. Hà Lan),Amlodipine (d??i d?ng Amlodipine camsylate) + Losartan kali,5mg + 100mg,Viên nén bao phim,U?ng,Viên
+147,H?o Võ,Cozaar XQ 5mg/50mg (C? s? ?óng gói: Merck Sharp & Dohme B.V. Hà Lan),Amlodipine (d??i d?ng Amlodipine camsylate) + Losartan kali,5mg + 50mg,Viên nén bao phim,U?ng,Viên
+148,H?o Võ,Diprospan,Betamethasone (Betamethasone dipropionate) + Betamethasone (d??i d?ng Betamethasone disodium phosphate),5mg/ml + 2mg/ml,H?n d?ch ?? tiêm,Tiêm,?ng 1ml
+149,H?o Võ,Diprospan,Betamethasone (Betamethasone dipropionate) + Betamethasone (d??i d?ng Betamethasone disodium phosphate),5mg/ml + 2mg/ml,H?n d?ch ?? tiêm,Tiêm,?ng 1ml
+150,H?o Võ,Elonva,Corifollitropin alfa,"150mcg/0,5ml",Dung d?ch tiêm,Tiêm,"Xy lanh ?óng s?n 0,5ml + kim tiêm"
+151,H?o Võ,Elonva,Corifollitropin alfa,"150mcg/0,5ml",Dung d?ch tiêm,Tiêm,"Xy lanh ?óng s?n x 0,5ml + kim tiêm"
+152,H?o Võ,Fosamax Plus 70mg/2800IU,Acid Alendronic (d??i d?ng Natri alendronate trihydrate) + Vitamin D3,70mg + 2800IU (d??i d?ng Vitamin D3 100.000IU/g),Viên nén,U?ng,Viên
+153,H?o Võ,Fosamax Plus 70mg/5600IU,Acid Alendronic (d??i d?ng natri alendronat trihydrat) + Vitamin D3,70mg + 5600IU (d??i d?ng vitamin D3 100.000IU/g),Viên nén,U?ng,Viên
+154,H?o Võ,Hyzaar 50mg/12.5mg,Losartan potassium + Hydrochlorothiazide,"50mg + 12,5mg",Viên nén bao phim,U?ng,Viên
+155,H?o Võ,Hyzaar 50mg/12.5mg,Losartan potassium + Hydrochlorothiazide,"50mg + 12,5mg",Viên nén bao phim,U?ng,Viên
+156,H?o Võ,Implanon NXT,Etonogestrel,68mg,Que c?y d??i da,C?y d??i da,Que c?y d??i da
+157,H?o Võ,"Implanon NXT (C? s? ti?t trùng thành ph?m sau công ?o?n ?óng gói cu?i cùng: Synergy Health Ede B.V; ??a ch?: Soevereinstraat 2, 4879NN, Etten-Leur, The Netherlands)",Etonogestrel,68mg,Que c?y d??i da,C?y d??i da,Que c?y d??i da
+158,H?o Võ,Orgalutran,Ganirelix,"0,25mg/0,5ml",Dung d?ch tiêm,Tiêm,"B?m tiêm ?óng s?n 0,5ml"
+159,H?o Võ,Orgalutran,Ganirelix,"0,25mg/0,5ml",Dung d?ch tiêm,Tiêm,"B?m tiêm ?óng s?n 0,5ml"
+160,H?o Võ,Orgametril,Lynestrenol,5mg,Viên nén,U?ng,Viên
+161,H?o Võ,Orgametril,Lynestrenol,5mg,Viên nén,U?ng,Viên
+162,H?o Võ,Puregon,Follitropin beta,"300IU/0,36ml",Dung d?ch tiêm,Tiêm,01 ?ng cartridge Puregon và 2 gói x 3 kim tiêm
+163,H?o Võ,Puregon,Follitropin beta,"600IU/0,72ml",Dung d?ch tiêm,Tiêm,01 ?ng cartridge Puregon và 2 gói x 3 kim tiêm
+164,H?o Võ,Puregon Pen,Bút tiêm c? khí,,Bu?t tiêm ,Tiêm ,Bút tiêm
+165,H?o Võ,Remeron 30,Mirtazapine,30mg,Viên nén bao phim,U?ng,Viên
+166,H?o Võ,Singulair,Montelukast (d??i d?ng Montelukast natri),10mg,Viên nén bao phim,U?ng,Viên
+167,H?o Võ,"Singulair (c? s? ?óng gói: Merck Sharp & Dohme B.V., ??a ch?: Waarderweg 39, 2031 BN Haarlem, The Netherlands)",Montelukast (d??i d?ng Montelukast natri),10mg,Viên nén bao phim,U?ng,Viên
+168,H?o Võ,Singulair,Montelukast (d??i d?ng Montelukast natri),4mg,C?m u?ng,U?ng,Gói 4mg
+169,H?o Võ,"Singulair (?óng gói c?p 1: Merck Sharp & Dohme Corp, USA; ?óng gói c?p 2: Merck Sharp & Dohme B.V.Hà Lan)",Montelukast (d??i d?ng Montelukast natri),4mg,C?m,U?ng,Gói 4mg
+170,H?o Võ,"Singulair 4mg (?óng gói t?i Merck Sharp & Dohme B.V. ??a ch?: Waarderweg 39, 2031 BN Haarlem - The Netherlands)",Montelukast (d??i d?ng Montelukast natri),4mg,Viên nén nhai,U?ng,Viên
+171,H?o Võ,"Singulair 4mg (?óng gói t?i Merck Sharp & Dohme B.V. ??a ch?: Waarderweg 39, 2031 BN Haarlem - The Netherlands)",Montelukast (d??i d?ng Montelukast natri),4mg,Viên nén nhai,U?ng,Viên
+172,H?o Võ,"Singulair 5mg (?óng gói t?i Merck Sharp & Dohme B.V. ??a ch?: Waarderweg 39, 2031 BN Haarlem - The Netherlands)",Montelukast (d??i d?ng Montelukast natri),5mg,Viên nén nhai,U?ng,Viên
+173,H?o Võ,"Singulair 5mg (?óng gói t?i Merck Sharp & Dohme B.V. ??a ch?: Waarderweg 39, 2031 BN Haarlem - The Netherlands)",Montelukast (d??i d?ng Montelukast natri),5mg,Viên nén nhai,U?ng,Viên
+174,H?o Võ,Tebonin,Ginkgo biloba,120mg,Viên nén bao phim,U?ng,Viên
+175,H?o Võ,Betex,Thiamin hydrochlorid + Pyridoxin hydrochlorid + Cyanocobalamin,100mg + 200mg + 200mcg,Viên nén bao phim,U?ng,Viên
+176,Minh Ng?c,Adrenaline aguettant 0.1mg/ml,"Adrenaline (d??i d?ng adrenaline tartrate 1,819mg) 1mg/10ml",1mg/10ml,Dung d?ch tiêm trong b?m tiêm ?óng s?n,Tiêm,B?m tiêm ?óng s?n 10ml
+177,Minh Ng?c,"Atropine sulfate Aguettant 0,1 mg/ml",Atropin sulfat,"0,1mg/ml",Dung d?ch tiêm trong b?m tiêm ?óng s?n,Tiêm,B?m tiêm ?óng s?n 5ml
+178,Minh Ng?c,Bupivacaine Aguettant 5mg/ml,"Bupivacaine hydrochloride monohydrate 5,28mg t??ng ???ng v?i Bupivacaine hydrochloride anhydrous (khan) 5,00mg trong 1ml",5 mg/ml,Dung d?ch tiêm,Tiêm,L? 20ml
+179,Minh Ng?c,Junimin,Zinc gluconat + ??ng gluconat + Mangan gluconat + Kali iodid + Natri selenit,"(6970mcg + 1428mcg + 40,52mcg + 13,08mcg + 43,81mcg)/10ml",Dung d?ch ??m ??c ?? tiêm truy?n sau khi pha loãng,Tiêm truy?n,?ng 10ml
+180,Minh Ng?c,Labetalol B-Medical 5mg/ml,Labetalol hydrochlorid,50mg/10ml,Dung d?ch tiêm,Tiêm,?ng 10ml
+181,Minh Ng?c,Levetiracetam Aguettant 100mg/ml,Levetiracetam,100mg/ml,Dung d?ch ??m ??c ?? pha dung d?ch tiêm tuy?n,Tiêm truy?n,L? 5ml
+182,Minh Ng?c,Lidocaine Aguettant 20 mg/mL (preservative free),"Anhydrous lidocaine hydrochloride (d??i d?ng Lidocaine hydrochloridemonohydrate 213,3mg) 200mg",200mg/10ml,Dung d?ch tiêm,Tiêm,?ng 10ml
+183,Minh Ng?c,Nicardipine Aguettant 10mg/10ml,Nicardipin hydrochlorid,10mg/10ml,Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,?ng 10ml
+184,Minh Ng?c,Nicardipine Aguettant 10mg/10ml,Nicardipin hydrochlorid,10mg/10ml,Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,?ng 10ml
+185,Minh Ng?c,Noradrenaline Base Aguettant 1mg/ml,Noradrenalin base (d??i d?ng noradrenalin tartrat),4mg/4ml,Dung d?ch ??m ??c ?? tiêm ho?c tiêm truy?n t?nh m?ch sau khi pha loãng,Tiêm truy?n,?ng 4ml
+186,Minh Ng?c,Nutryelt,K?m gluconat + ??ng gluconat + Mangan gluconat + Natri fluorid + Kali iodid + Natri selenit + Natri molybdat + Crom clorid + S?t gluconat,"(69700,00mcg + 2142,40mcg + 445,69mcg + 2099,50mcg + 170,06mcg + 153,32mcg + 42,93mcg + 30,45mcg +7988,20mcg)/10ml",Dung d?ch ??m ??c ?? pha tiêm truy?n,Tiêm truy?n,?ng 10ml
+187,Minh Ng?c,Phenylalpha 50 micrograms/ml,Phenylephrin (d??i d?ng phenylephrin hydroclorid),50mcg/ml,Dung d?ch tiêm,Tiêm,?ng 10ml
+188,Minh Ng?c,Phenylephrine Aguettant 50 Microgrammes/ml,Phenylephrin (d??i d?ng phenylephrin hydroclorid),50mcg/ml,Dung d?ch tiêm trong b?m tiêm ?óng s?n,Tiêm,B?m tiêm ?óng s?n 10ml
+189,Minh Ng?c,Phenylephrine Aguettant 50 Microgrammes/ml,"Phenylephrine (d??i d?ng Phenylephrine hydrochloride 0,609mg)","0,5mg",Dung d?ch tiêm trong b?m tiêm ?óng s?n,Tiêm,B?m tiêm ?óng s?n 10ml
+190,Minh Ng?c,"Potassium Chloride Proamp 0,10g/ml",Potassium chloride,1g/10ml,Dung d?ch ??m ??c ?? pha dung d?ch tiêm truy?n,Tiêm truy?n,?ng 10ml
+191,Minh Ng?c,"Potassium Chloride Proamp 0,10g/ml",Kali chloride,1g/10ml,Dung d?ch ??m ??c ?? pha dung d?ch tiêm truy?n,Tiêm truy?n,?ng 10ml
+192,Minh Ng?c,Selenium 10micrograms/ml,Selen (d??i d?ng selenit natri),100mcg/10ml,Dung d?ch tiêm truy?n,Tiêm truy?n,?ng 10ml
+193,Minh Ng?c,Sodium Valproate Aguettant 400mg/4ml,Natri Valproate,400mg/4ml,Dung d?ch tiêm,Tiêm,?ng 4ml
+194,Minh Ng?c,Zinc 1mg/mL,Zinc (d??i d?ng zinc gluconate),1mg/1ml,Dung d?ch ??m ??c ?? tiêm truy?n sau khi pha loãng,Tiêm truy?n,Chai 10ml
+195,Minh Ng?c,Jointmeno,Ibandronic acid,"150mg (d??i d?ng natri Ibandronate 168,75mg)",Viên nén bao phim,U?ng,Viên
+196,Minh Ng?c,Th?c ph?m b?o v? s?c kh?e Jointcal,Canxi carbonat 1 + Tricalcium phosphate + Menaquinone + Cholecalciferol,"1437,52mg + 73,50mg + 22,96mg + 100.000IU/G 10,50mg",Viên nén s?i b?t,U?ng,Viên
+197,Minh Ng?c,Efferalgan,Paracetamol,150mg,B?t s?i b?t ?? pha dung d?ch u?ng,U?ng,Gói 150mg
+198,Minh Ng?c,Efferalgan,Paracetamol,150mg,Thu?c ??n,??t h?u môn,Viên
+199,Minh Ng?c,Efferalgan,Paracetamol,250mg,B?t s?i b?t ?? pha dung d?ch u?ng,U?ng,Gói 250mg
+200,Minh Ng?c,Efferalgan,Paracetamol,500mg,Viên nén s?i b?t,U?ng,Viên
+201,Minh Ng?c,Efferalgan,Paracetamol,500mg,Viên nén s?i b?t,U?ng,Viên
+202,Minh Ng?c,Efferalgan,Paracetamol,500mg,Viên nén s?i b?t,U?ng,Viên
+203,Minh Ng?c,Efferalgan,Paracetamol,80mg,B?t s?i b?t ?? pha dung d?ch u?ng,U?ng,Gói 80mg
+204,Minh Ng?c,Efferalgan,Paracetamol,300mg,Thu?c ??n,??t h?u môn,Viên
+205,Minh Ng?c,Efferalgan,Paracetamol,300mg,Viên ??n,??t h?u môn,Viên
+206,Minh Ng?c,Efferalgan,Paracetamol,80mg,Viên ??n,??t h?u môn,Viên
+207,Minh Ng?c,Efferalgan Codeine,Paracetamol + Codein phosphat,500mg + 30mg,Viên nén s?i b?t,U?ng,Viên
+208,Minh Ng?c,Mucomyst,Acetylcystein,200mg,B?t pha dung d?ch u?ng,U?ng,Gói
+209,Minh Ng?c,Upsa-C,Acid Ascorbic (Vitamin C),1000mg,Viên nén s?i b?t,U?ng,Viên
+210,Minh Ng?c,Th?c ph?m b?o v? s?c kh?e UPSA Digestion,"M?i gói 2,5 g b?t ch?a: Thành ph?n chính: Calci citrat tetrahydrat 571,43 mg t??ng ???ng 120 mg Calci; Betain citrat 400 mg t??ng ???ng 152 mg Betain. Thành ph?n khác: ch?t ??n (isomalt), h??ng chanh b?c hà t? nhiên (sirô glucose ?ã kh? n??c, gôm arabic, triacetin , ch?t t?o h??ng t? nhiên), ch?t ch?ng ?ông vón (mu?i c?a magnesi v?i các acid béo), ch?t t?o ng?t nhân t?o (sucralose).",,B?t u?ng,Gói,"Gói 2,5g b?t"
+211,Minh Ng?c,Th?c ph?m b?o v? s?c kh?e UPSA-C Vitamin C 500,"M?i gói 1,5 g b?t ch?a: Thành ph?n chính: Natri ascorbat (t??ng ???ng 250 mg vitamin C) 285mg; acid ascorbic (vitamin C) 250 mg . Thành ph?n khác: ch?t ??n (isomalt), h??ng cam t? nhiên, ch?t ch?ng ?ông vón (mu?i c?a magnesi v?i các acid béo), ch?t t?o ng?t nhân t?o (sucralose).",,B?t u?ng,Gói,"Gói 1,5g b?t"
+212,Minh Ng?c,Viên ng?m kháng viêm Difflam v? chanh-m?t ong,Benzydamine hydrochloride + Cetylpyridinium chloride,"3mg + 1,33mg",Viên ng?m h?ng không ???ng,U?ng,Viên
+213,Minh Ng?c,Viên ng?m kháng viêm Difflam v? qu? mâm xôi,Benzydamine hydrochloride + Cetylpyridinium chloride,"3mg + 1,33mg",Viên ng?m h?ng không ???ng,U?ng,Viên
+214,Minh Ng?c,Betadine Antiseptic Solution 10%w/v,Povidon iod,10% kl/tt,Dung d?ch dùng ngoài,Dùng ngoài,Chai 30ml
+215,Minh Ng?c,Betadine Antiseptic Solution 10%w/v,Povidon iod,10% kl/tt,Dung d?ch dùng ngoài,Dùng ngoài,Chai 125ml
+216,Minh Ng?c,Betadine Antiseptic Solution 10%w/v,Povidon iod,10% kl/tt,Dung d?ch dùng ngoài,Dùng ngoài,Chai 500ml
+217,Minh Ng?c,Betadine Gargle and Mouthwash,Povidone Iodine,1% (w/v),Dung d?ch súc h?ng và súc mi?ng,Súc h?ng và mi?ng,Chai 125ml
+218,Minh Ng?c,Betadine Gargle and Mouthwash,Povidone Iodine,1% (w/v),Dung d?ch súc h?ng và súc mi?ng,Súc h?ng và mi?ng,Chai 125ml
+219,Minh Ng?c,Betadine Ointment 10% w/w,Povidon iod,10% (kl/kl),Thu?c m?,Dùng ngoài,Tuýp 40g
+220,Minh Ng?c,Betadine Throat spray,Povidon iod,"0,45% (w/v)",Dung d?ch x?t h?ng,X?t mi?ng và h?ng,Chai 50ml
+221,Minh Ng?c,Betadine Throat spray,Povidon iod,"0,45% (w/v)",Dung d?ch x?t h?ng,X?t mi?ng và h?ng,Chai 50ml
+222,Minh Ng?c,Betadine Vaginal Douche,Povidon iod,10% (kl/tt),Dung d?ch sát trùng âm ??o,Dùng ngoài,Chai 125ml
+223,Minh Ng?c,Betadine Vaginal Douche,Povidon iod,10% (kl/tt),Dung d?ch sát trùng âm ??o,Dùng ngoài,Chai 125ml
+224,Minh Ng?c,BETADINE KIDS COLD DEFENCE NASAL SPRAY,"Dung d?ch mu?i v?i 1,2mg/ml Carragelose TM (Carrageenan)",,Dung d?ch x?t m?i,X?t m?i,Chai 20ml
+225,Minh Ng?c,BETADINE COLD DEFENCE NASAL SPRAY,"Dung d?ch mu?i v?i 1,2mg/ml Carragelose TM (Carrageenan)",,Dung d?ch x?t m?i,X?t m?i,Chai 20ml
+226,Minh Ng?c,BETADINE FEMININE WASH DAILY USE GENTLE PROTECTION IMMORTELLE,"Aqua (water), cocamidopropyl betaine, lauryl glucoside, glycerin, coco-glucoside, propylene glycol, lactic acid (1,440%), sucrose cocoate, sodium benzoate (0,600%), alpha-glucan oligosaccharide, parfum (fragrance), ethylhexylglycerin, triethyl citrate, helichrysum italicum extract",,Dung d?ch dùng ngoài,V? sinh c? quan sinh d?c ngoài,Chai 100ml
+227,Minh Ng?c,BETADINE FEMININE WASH DAILY USE GENTLE PROTECTION IMMORTELLE,"Aqua (water), cocamidopropyl betaine, lauryl glucoside, glycerin, coco-glucoside, propylene glycol, lactic acid (1,440%), sucrose cocoate, sodium benzoate (0,600%), alpha-glucan oligosaccharide, parfum (fragrance), ethylhexylglycerin, triethyl citrate, helichrysum italicum extract",,Dung d?ch dùng ngoài,V? sinh c? quan sinh d?c ngoài,Chai 250ml
+228,Minh Ng?c,BETADINE FEMININE WASH FOAM DAILY USE GENTLE PROTECTION IMMORTELLE,"Aqua (water), cocamidopropyl betaine, glycerin, propylene glycol, sucrose cocoate, lactic acid (0,900%), sodium benzoate (0,620%), alpha-glucan oligosaccharide, parfum (fragrance), ethylhexylglycerin, triethyl citrate, coco-glucoside, glyceryl oleate, citric acid, helichrysum italicum extract, tocopherol, hydrogenated palm glycerides citrate, lecithin, ascorbyl palmitate",,Dung d?ch dùng ngoài,V? sinh c? quan sinh d?c ngoài,Chai 100ml
+229,Minh Ng?c,BETADINE FEMININE WASH FOAM DAILY USE MOISTURISING CALENDULA,"Aqua (water), cocamidopropyl betaine, glycerin, propylene glycol, sucrose cocoate, lactic acid (0,900%), sodium benzoate (0,620%), alpha-glucan oligosaccharide, parfum (fragrance) (có ch?a: linalool ), ethylhexylglycerin, triethyl citrate, coco-glucoside, glyceryl oleate, citric acid, calendula officinalis flower extract, helichrysum italicum extract, potassium sorbate (0,0008%), sorbic acid (0,0002%), tocopherol, hydrogenated palm glycerides citrate, lecithin, ascorbyl palmitate",,Dung d?ch dùng ngoài,V? sinh c? quan sinh d?c ngoài,Chai 100ml
+230,Minh Ng?c,BETADINE FEMININE WASH FOAM DAILY USE FRESH & ACTIVE LEMON VERBENA,"Aqua (water), cocamidopropyl betaine, glycerin, propylene glycol, sucrose cocoate, lactic acid (0,900%), sodium benzoate (0,620%), alpha-glucan oligosaccharide, parfum (fragrance) (có ch?a: limonene, hexyl cinnamal, linalool), ethylhexylglycerin, triethyl citrate, coco-glucoside, glyceryl oleate, butylene glycol, citric acid, lippia citriodora leaf extract, helichrysum italicum extract, tocopherol, hydrogenated palm glycerides citrate, lecithin, ascorbyl palmitate",,Dung d?ch dùng ngoài,V? sinh c? quan sinh d?c ngoài,Chai 100ml
+231,Minh Ng?c,ACNE-AID SOAP BAR OIL CONTROL,Sodium Palmate; Sodium Palm Kernelate; Aqua/Water; Sulfated Olive Oil; Paraffinum Liquidum; Sodium Chloride; Glycerin; Sodium Hydroxide; Tetrasodium Edta; Tetrasodium Etidronate; Disodium Edta,"65,5132100; 16,3783025; 10,7628845; 3,5710000; 2,6800000; 0,3743612; 0,2807709; 0,1300000; 0,0935903; 0,0935903; 0.0935903; 0,0287000",Bánh xà phòng r?a m?t,,
+232,Minh Ng?c,ACNE-AID LIQUID CLEANSER OIL CONTROL,"Aqua, Sodium Lauroyl Sarcosinate, Myristic Acid, Disodium Laureth Sulfosuccinate, Glycerin,  PEG-7 Glyceryl Cocoate, Cocamidopropyl Betaine, Sulfated Olive Oil, Glycol Distearate, Paraffinum Liquidum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Imidazolidimyl Urea, Parfum, Sorbitan Oleate, Sodium Hydroxide","74%, 10.5%, 3%, 2.9%, 2%, 2%, 1.5%, 1.12%, 1%, 0.84%, 0.8%, 0.1%, 0.1%, 0.04%, 0.04%, 0.025%",S?a r?a m?t,,
+233,Minh Ng?c,ACNE-AID GEL SCAR CARE,"Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, Isononyl Isononanoate, Tocopheryl Acetate, Ascorbyl Tetraisopalmitate, Aqua, Olea Europaea Fruit Oil, Aloe Barbadensis Leaf Juice, Helianthus Annuus Seed Oil, Citric Acid, Melaleula Alternifolia Leaf Oil, Sodium Benzoate","80.93%, 10.91%, 4%, 2%, 1%, 0.5%, 0.2%, 0.2%, 0.1%, 0.097%, 0.05%, 0.0002%, 0.0001%, 0.0001%",Gel,,
+234,Minh Ng?c,ACNE-AID SPOT GEL ANTI-ACNE,"Aqua, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethoxydiglycol, Dipropylene Glycol, Salicylic Acid, Butylene Glycol, Propanediol, Zinc PCA, Phenoxyethanol, Potassium Hydroxide, Bisabolol, Chlorphenesin, Aloe Barbadentis Leaf Juice, Glycerin, Hydrolysed Algin, Melaleula Alternifolia, Leaf Oil, Zinc Sulfate, Potassium Sorbate, Sodium Benzoate, Xantan Gum, Maltodextrin, Disodium EDTA","86.62%, 2.4%, 2.4%, 1.6%, 1.5%, 1%, 1%, 1%, 0.69%, 0.57%, 0.5%, 0.16%, 0.1%, 0.068%, 0.05%, 0.05%,0.005%, 0.001%, 0.001%, 0.1%, 0.098%, 0.092%",Gel,,
+235,Minh Ng?c,ACNE-AID GENTLE CLEANSER SENSITIVE SKIN,"Aqua, Myristic Acid, Disodium Laureth Sulfosuccinate, Sodium Lauroyl Sarcosinate, Glycerin, PEG-7 Glyceryl Cocoate, Cocamidopropyl Betaine, Glycol Distearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Disodium EDTA, Imidazolidinyl Urea.","83.92%, 3%, 2.9%, 2.8%, 2%, 2%, 1.5%, 1%, 0.5%, 0.18%, 0.1%, 0.1%",S?a r?a m?t,,
+236,Minh Ng?c,ACNE-AID GEL CLEANSER SENSITIVE SKIN,"Aqua, Potassium Laureth Phosphate, Glycerin, Acrylates Copolymer, Disodium Laureth Sulfosuccinate, Potassium Lauryl Phosphate, Phenoxyethanol, Cocamidopropyl Betaine, Dipropylene Glycol, Sodium Benzoate, Ethyoxydiglycol, PEG-150 Distearate, Propylene Glycol, Ethylhexylglycerin, Sodium Hydroxide, o-Cymen-5-ol, Salicylic Acid, Sodium Chloride, Tetrasodium EDTA, Aloe Barbadensis Leaf Juice, Maltodextrin, Benzoic Acid, Potassium Sorbate, Hydrolysed Algin, Zinc Sulfate","85.26%, 3.15%, 2.99%, 1.63%, 1.11%, 1.05%, 0.80%, 0.62%, 0.53%, 0.51%, 0.5%, 0.5%, 0.5%, 0.25%, 0.17%, 0.1%, 0.1%, 0.1%, 0.1%, 0.01%, 0.01%, 0.007%, 0.0001%, 0.00005%, 0.000005%",Gel r?a m?t,,
+237,Minh Ng?c,ACNE-AID FOAMING FACE WASH OIL CONTROL,"Aqua, Sodium Laureth Sulphate, Lauric Acid, Myristic Acid, Cocamidopropyl Betaine, Glycerin, Potassium Hydroxide, Phenoxyethanol, Propylene Glycol, Sodium Chloride, Polysorbate 20, Chlorphenesin, o-Cymen-5-ol, Tetrasodium EDTA, Sodium Benzoate, Benzotriazolyl Dodecyl p-Cresol, Benzophenone-4, Tocopheryl Acetate, Salicylic Acid, Aloe Barbadensis Leaf Juice, Maltodextrin, Hydrolysed Algin, Zinc Sulphate, Potassium Sorbate","82,15%; 4,20%; 3,50%; 2,50%; 2,40%; 1,57%; 1,27%; 0,75%; 0,50%; 0,48%; 0,19%; 0,18%; 0,10%; 0,10%; 0,04%; 0,03%; 0,03%; 0,001%; 0,001%; 0,0005%; 0,005%; 0,00005%; 0,000005%; 0,000005%.",B?t r?a m?t,,
+238,Minh Ng?c,Alovell,Acid alendronic (d??i d?ng alendronat natri),70mg,Viên nén,U?ng,Viên
+239,Minh Ng?c,Butavell,Dobutamin (d??i d?ng dobutamin HCl),50mg/ml,Dung d?ch tiêm,Tiêm,L? 5ml
+240,Minh Ng?c,Cholinaar,Citicolin (d??i d?ng citicolin natri),250mg/2ml,Dung d?ch Tiêm,Tiêm,?ng 2ml
+241,Minh Ng?c,Cholinaar,Citicolin (d??i d?ng citicolin natri),500mg/4ml,Dung d?ch Tiêm,Tiêm,?ng 4ml
+242,Minh Ng?c,Civell,Ciprofloxacin,2mg/ml,Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 100ml
+243,Minh Ng?c,Civell,Ciprofloxacin,2mg/ml,Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 100ml
+244,Minh Ng?c,Clindamycin,Clindamycin (d??i d?ng Clindamycin HCl),150mg,Viên nang c?ng,U?ng,Viên
+245,Minh Ng?c,Fluxar,Fluconazol,2mg/ml,Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 100ml
+246,Minh Ng?c,Gapivell,Gabapentin,300mg,Viên nang c?ng,U?ng,Viên
+247,Minh Ng?c,Gapivell,Gabapentin,300mg,Viên nang c?ng,U?ng,Viên
+248,Minh Ng?c,Haemostop,Acid tranexamic,100mg/ml,Dung d?ch tiêm,Tiêm,?ng 5ml
+249,Minh Ng?c,Haemostop,Acid tranexamic,250mg/5ml,Dung d?ch tiêm,Tiêm,?ng 5ml
+250,Minh Ng?c,Haiblok,Bisoprolol hemifumarate,5mg,Viên nén bao phim,U?ng,Viên
+251,Minh Ng?c,Irvell 150mg,Irbesartan,150mg,Viên nén bao phim,U?ng,Viên
+252,Minh Ng?c,Lignovell Solution For Injection,Lidocain (d??i d?ng lidocain hydroclorid),20mg/ml,Dung d?ch tiêm,Tiêm,?ng 2ml
+253,Minh Ng?c,Lignovell Spray,Lidocaine base (d??i d?ng Lidocaine HCl),100mg/ml,Thu?c x?t dùng ngoài,Dùng ngoài,Chai 50 ml
+254,Minh Ng?c,Movepain,Ketorolac Tromethamin,30mg/ml,Dung d?ch tiêm,Tiêm,?ng 1ml
+255,Minh Ng?c,N-EPI,Norepinephrine (d??i d?ng Norepinephrine bitartrate),1mg/ml,Dung d?ch tiêm,Tiêm,?ng 4ml
+256,Minh Ng?c,Notrixum,Atracurium Besylat,"25mg/2,5ml",Dung d?ch tiêm,Tiêm,"?ng 2,5ml"
+257,Minh Ng?c,Notrixum,Atracurium Besylat,"25mg/2,5ml",Dung d?ch tiêm,Tiêm,"?ng 2,5ml"
+258,Minh Ng?c,Novalud,Tizanidin (d??i d?ng tizanidin hydroclorid),2mg,Viên nén,U?ng,Viên
+259,Minh Ng?c,Novalud,Tizanidin (d??i d?ng tizanidin hydroclorid),2mg,Viên nén,U?ng,Viên
+260,Minh Ng?c,Novepide,Rebamipide,100mg,Viên nén bao phim,U?ng,Viên
+261,Minh Ng?c,Noveron,Rocuronium bromid,10mg/ml,Dung d?ch tiêm,Tiêm,L? 5ml
+262,Minh Ng?c,Novestrol,Methylprednisolone (d??i d?ng Methylprednisolone sodium succinate),125mg,Thu?c b?t pha tiêm,Tiêm,L? thu?c b?t pha tiêm methylprednisolon 125mg và 1 ?ng dung môi 2ml
+263,Minh Ng?c,Novexib 200,Celecoxib,200mg,Viên nang c?ng,U?ng,Viên
+264,Minh Ng?c,Novocress,Levofloxacin,500mg,Viên nén bao phim,U?ng,Viên
+265,Minh Ng?c,Novocress Infusion,Levofloxacin (d??i d?ng Levofloxacin hemihydrate),5mg/ml,Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 100ml
+266,Minh Ng?c,Novorin,Leucovorin (d??i d?ng Leucovorin Calcium),10mg/ml,Dung d?ch tiêm,Tiêm,L? 5ml
+267,Minh Ng?c,Nupovel,Propofol,10mg/ml,Nh? t??ng tiêm,Tiêm,?ng 20ml
+268,Minh Ng?c,Ondanov 4mg Injection,Ondansetron (d??i d?ng ondansetron hydroclorid dihydrat),4mg/2ml,Dung d?ch tiêm,Tiêm,?ng 2ml
+269,Minh Ng?c,Ondanov 4mg Tablet,Ondansetron (d??i d?ng ondansetron hydroclorid dihydrat),4mg,Viên nén bao phim,U?ng,Viên
+270,Minh Ng?c,Ondanov 4mg Tablet,Ondansetron (d??i d?ng ondansetron hydroclorid dihydrat),4mg,Viên nén bao phim,U?ng,Viên
+271,Minh Ng?c,Ondanov 8mg Injection,Ondansetron (d??i d?ng ondansetron hydroclorid dihydrat),8mg/4ml,Dung d?ch tiêm,Tiêm,?ng 4ml
+272,Minh Ng?c,Ondanov 8mg Tablet,Ondansetron (d??i d?ng ondansetron hydroclorid dihydrat),8mg,Viên nén bao phim,U?ng,Viên
+273,Minh Ng?c,Ondanov 8mg Tablet,Ondansetron (d??i d?ng ondansetron hydroclorid dihydrat),8mg,Viên nén bao phim,U?ng,Viên
+274,Minh Ng?c,Ornispar,L-ornithin L-aspartat,0.5g/ml,Dung d?ch tiêm,Tiêm,?ng 10ml
+275,Minh Ng?c,Panvell,Pantoprazol (d??i d?ng pantoprazol natri sesquihydrat),40mg,B?t ?ông khô pha tiêm,Tiêm,L? 40mg
+276,Minh Ng?c,Prohytens 10,Ramipril,10mg,Viên nén,U?ng,Viên
+277,Minh Ng?c,Regivell,Bupivacain HCl,5mg/ml,Dung d?ch tiêm,Tiêm,?ng 4ml
+278,Minh Ng?c,Removchol 20,Atorvastaitn (d??i d?ng Atorvastatin calcium trihydrat),20mg,Viên nén bao phim,U?ng,Viên
+279,Minh Ng?c,Removchol 40,Atorvastatin (d??i d?ng Atorvastatin calcium trihydrat),40mg,Viên nén bao phim,U?ng,Viên
+280,Minh Ng?c,Respira,Moxifloxacin (d??i d?ng Moxifloxacin hydroclorid),400mg,Viên nén dài bao phim,U?ng,Viên
+281,Minh Ng?c,Ryvel,Cetirizin dihydroclorid,10mg,Viên nén bao phim,U?ng,Viên
+282,Minh Ng?c,Velcox,Meloxicam,15mg,Viên nén,U?ng,Viên
+283,Minh Ng?c,Vellanin powder for injection,Teicoplanin,400mg,Thu?c b?t pha tiêm,Tiêm,L? 400mg
+284,Minh Ng?c,Zipren 10mg Tablet,Aripiprazole,10mg,Viên nén không bao,U?ng,Viên
+285,Minh Ng?c,Zonaxson,Eperison hydrochlorid,50mg,Viên nén bao phim,U?ng,Viên
+286,Minh Ng?c,Zyfort,Thiamin hydroclorid + Pyridoxin hydroclorid + Cyanocobalamin,(100mg + 100mg + 5000mcg)/3ml,Dung d?ch tiêm,Tiêm,?ng 3ml
+287,Minh Ng?c,Gaviscon,Natri alginate + Natri bicarbonate + Calci carbonate,(500mg + 267mg + 160mg)/10ml,H?n d?ch u?ng,U?ng,Gói 10ml
+288,Minh Ng?c,Gaviscon Dual Action,"M?i 10ml ch?a: Natri alginat 500mg, Natri bicarbonat 213mg, Canxi carbonat 325mg",(500mg + 213mg + 325mg)/10ml,H?n d?ch u?ng,U?ng,Gói 10ml
+289,Minh Ng?c,Gaviscon Dual Action,"M?i 10ml ch?a: Natri alginat 500mg, Natri bicarbonat 213mg, Canxi carbonat 325mg",(500mg + 213mg + 325mg)/10ml,H?n d?ch u?ng,U?ng,Gói 10ml
+290,Minh Ng?c,Nurofen for children,Ibuprofen,100mg/5ml,H?n d?ch u?ng,U?ng,Chai 60ml
+291,Minh Ng?c,Strepsils Cool,"2,4 Dichlorbenzyl Alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+292,Minh Ng?c,Strepsils Cool,"2,4 Dichlorbenzyl Alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+293,Minh Ng?c,Strepsils Extra Strong,"2,4-Dichlorobenzyl alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,U?ng,Viên
+294,Minh Ng?c,Strepsils Orange with Vitamin C,"2,4 Dichlorbenzyl alcohol + Amylmetacresol + Acid ascorbic + Natri ascorbat","1,2mg + 0,6mg + 33,52mg + 75mg",Viên ng?m,Ng?m,Viên
+295,Minh Ng?c,Strepsils Orange with Vitamin C,"2,4 Dichlorbenzyl alcohol + Amylmetacresol + Acid ascorbic + Natri ascorbat","1,2mg + 0,6mg + 33,52mg + 75mg",Viên ng?m,Ng?m,Viên
+296,Minh Ng?c,Strepsils Orange with Vitamin C,"2,4 Dichlorbenzyl alcohol + Amylmetacresol + Acid ascorbic + Natri ascorbat","1,2mg + 0,6mg + 33,52mg + 75mg",Viên ng?m,Ng?m,Viên
+297,Minh Ng?c,Strepsils Orange with Vitamin C,"2,4 Dichlorbenzyl alcohol + Amylmetacresol + Acid ascorbic + Natri ascorbat","1,2mg + 0,6mg + 33,52mg + 75mg",Viên ng?m,Ng?m,Viên
+298,Minh Ng?c,Strepsils Original,"2,4 Dichlorbenzyl alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+299,Minh Ng?c,Strepsils Original,"2,4 Dichlorbenzyl alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+300,Minh Ng?c,Strepsils Original,"2,4 Dichlorbenzyl alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+301,Minh Ng?c,Strepsils Original,"2,4 Dichlorbenzyl alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+302,Minh Ng?c,Strepsils Soothing Honey & Lemon,"2,4-Dichlorbenzyl Alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+303,Minh Ng?c,Strepsils Soothing Honey & Lemon,"2,4-Dichlorbenzyl Alcohol + Amylmetacresol","1,2mg + 0,6mg",Viên ng?m,Ng?m,Viên
+304,Minh Ng?c,Strepsils Throat Irritation & Cough,Ambroxol hydrochlorid,15mg,Viên ng?m,Ng?m,Viên
+305,Minh Ng?c,Strepsils Throat Irritation & Cough,Ambroxol hydrochloride ,15mg,Viên ng?m,Ng?m,Viên
+306,Minh Ng?c,Strepsils Throat Irritation & Cough,Ambroxol hydrochlorid,15mg,Viên ng?m,Ng?m,Viên
+307,Minh Ng?c,StrepsilsMaxpro,Flurbiprofen,"8,75mg",Viên ng?m,Ng?m,Viên
+308,Minh Ng?c,StrepsilsMaxpro,Flurbiprofen,"8,75mg",Viên ng?m,Ng?m,Viên
+309,Minh Ng?c,StrepsilsMaxpro,Flurbiprofen,"8,75mg",Viên ng?m,Ng?m,Viên
+310,Minh Ng?c,Lonsurf® 15mg/6.14mg,Trifluridine + Tipiracil ,"15mg + 6,14mg (t??ng ???ng Tipiracil Hydrochloride 7,065mg)",Viên nén bao phim,U?ng,Viên
+311,Minh Ng?c,Lonsurf® 20mg/8.19mg,Trifluridine + Tipiracil ,"20mg + 8,19mg (t??ng ???ng Tipiracil Hydrochloride 9,42mg)",Viên nén bao phim,U?ng,Viên
+312,Minh Ng?c,TS-One Capsule 20,Tegafur + Gimeracil + Oteracil kali,"20mg + 5,8mg + 19,6mg",Viên nang c?ng,U?ng,Viên
+313,Minh Ng?c,TS-One Capsule 20,Tegafur + Gimeracil + Oteracil kali,"20mg + 5,8mg + 19,6mg",Viên nang c?ng,U?ng,Viên
+314,Minh Ng?c,TS-One Capsule 25,Tegafur + Gimeracil + Oteracil kali,"25mg + 7,25mg + 24,5mg",Viên nang c?ng,U?ng,Viên
+315,Bích Ngân (Dung),Actilyse,Alteplase,50mg,B?t ?ông khô và dung môi ?? pha dung d?ch tiêm truy?n,Tiêm truy?n,1 l? b?t ?ông khô + 1 l? n??c c?t pha tiêm
+316,Bích Ngân (Dung),Berodual,Ipratropium bromide khan + Fenoterol hydrobromide,250mcg/ml + 500mcg/ml,Dung d?ch khí dung,Khí dung,L? 20ml
+317,Bích Ngân (Dung),Berodual,Ipratropium bromide khan (d??i d?ng Ipratropium bromide monohydrate) + Fenoterol Hydrobromide,"0,02mg/nhát x?t + 0,05mg/nhát x?t",Dung d?ch khí dung,X?t h?ng,Bình x?t 200 nhát x?t (10ml)
+318,Bích Ngân (Dung),Combivent,Ipratropium bromide anhydrous (d??i d?ng Ipratropium bromide monohydrate) + Salbutamol (d??i d?ng Salbutamol sulfate),"0,500mg + 2,500mg",Dung d?ch khí dung,Khí dung,"L? x 2,5ml"
+319,Bích Ngân (Dung),Giotrif,Afatinib (d??i d?ng Afatinib dimaleate),20mg,Viên nén bao phim,U?ng,Viên
+320,Bích Ngân (Dung),Giotrif,Afatinib (d??i d?ng Afatinib dimaleate),30mg,Viên nén bao phim,U?ng,Viên
+321,Bích Ngân (Dung),Giotrif,Afatinib (d??i d?ng Afatinib dimaleate),40mg,Viên nén bao phim,U?ng,Viên
+322,Bích Ngân (Dung),Glyxambi,Empagliflozin + Linagliptin,10mg + 5mg,Viên nén bao phim,U?ng,Viên
+323,Bích Ngân (Dung),Glyxambi,Empagliflozin + Linagliptin,25mg + 5mg,Viên nén bao phim,U?ng,Viên
+324,Bích Ngân (Dung),Jardiance,Empagliflozin,10mg,Viên nén bao phim,U?ng,Viên
+325,Bích Ngân (Dung),Jardiance,Empagliflozin,25mg,Viên nén bao phim,U?ng,Viên
+326,Bích Ngân (Dung),Jardiance,Empagliflozin,10mg,Viên nén bao phim,U?ng,Viên
+327,Bích Ngân (Dung),Jardiance,Empagliflozin,25mg,Viên nén bao phim,U?ng,Viên
+328,Bích Ngân (Dung),Jardiance Duo,Empagliflozin + Metformin hydroclorid,"12,5mg + 1000mg",Viên nén bao phim,U?ng,Viên
+329,Bích Ngân (Dung),Jardiance Duo,Empagliflozin + Metformin hydroclorid,"12,5mg + 850mg",Viên nén bao phim,U?ng,Viên
+330,Bích Ngân (Dung),Jardiance Duo,Empagliflozin + Metformin hydroclorid,5mg + 1000mg,Viên nén bao phim,U?ng,Viên
+331,Bích Ngân (Dung),Micardis,Telmisartan,40mg,Viên nén,U?ng,Viên
+332,Bích Ngân (Dung),Micardis,Telmisartan,80mg,Viên nén,U?ng,Viên
+333,Bích Ngân (Dung),Micardis Plus,Telmisartan + Hydrochlorothiazide,"40mg + 12,5mg",Viên nén,U?ng,Viên
+334,Bích Ngân (Dung),Micardis,Telmisartan,40mg,Viên nén,U?ng,Viên
+335,Bích Ngân (Dung),Micardis,Telmisartan,80mg,Viên nén,U?ng,Viên
+336,Bích Ngân (Dung),Micardis Plus,Telmisartan + Hydrochlorothiazide,"40mg + 12,5mg",Viên nén,U?ng,Viên
+337,Bích Ngân (Dung),Mobic,Meloxicam,"15mg/1,5ml",Dung d?ch tiêm,Tiêm,"?ng 1,5ml"
+338,Bích Ngân (Dung),Mobic,Meloxicam,"15mg/1,5ml",Dung d?ch tiêm,Tiêm,"?ng x 1,5ml"
+339,Bích Ngân (Dung),Mobic,Meloxicam,15mg,Viên nén,U?ng,Viên
+340,Bích Ngân (Dung),Mobic,Meloxicam,"7,5mg",Viên nén,U?ng,Viên
+341,Bích Ngân (Dung),Ofev,Nintedanib (d??i d?ng Nintedanib esilat),100mg,Viên nang m?m,U?ng,Viên
+342,Bích Ngân (Dung),Ofev,Nintedanib (d??i d?ng Nintedanib esilat),150mg,Viên nang m?m,U?ng,Viên
+343,Bích Ngân (Dung),Pradaxa,Dabigatran etexilate (d??i d?ng Dabigatran etexilate mesilate),110mg,Viên nang c?ng,U?ng,Viên
+344,Bích Ngân (Dung),Pradaxa,Dabigatran etexilate (d??i d?ng Dabigatran etexilate mesilate),150mg,Viên nang c?ng,U?ng,Viên
+345,Bích Ngân (Dung),Pradaxa,Dabigatran etexilate (d??i d?ng Dabigatran etexilate mesilate),75mg,Viên nang c?ng,U?ng,Viên
+346,Bích Ngân (Dung),Praxbind,Idarucizumab,2500mg/50ml,Dung d?ch tiêm truy?n,Tiêm truy?n,L? 50ml
+347,Bích Ngân (Dung),Sifrol,"Pramipexole dihydrochloride monohydrate 0,25mg t??ng ???ng v?i Pramipexole 0,18mg","0,25mg (t??ng ???ng v?i Pramipexole 0,18mg)",Viên nén,U?ng,Viên
+348,Bích Ngân (Dung),Sifrol,"Pramipexol dihydrochlorid monohydrat (t??ng ???ng Pramipexol 0,26mg)","0,375mg",Viên nén phóng thích ch?m,U?ng,Viên
+349,Bích Ngân (Dung),Sifrol,"Pramipexol dihydrochloride monohydrat 0,75mg (t??ng ???ng 0,52 mg pramipexol)","0,75mg",Viên nén phóng thích ch?m,U?ng,Viên
+350,Bích Ngân (Dung),Spevigo®,Spesolimab,"450mg/7,5mL (60 mg/mL)",Dung d?ch truy?n ??m ??c,Truy?n,"L? 7,5mL"
+351,Bích Ngân (Dung),Spiolto Respimat,Tiotropium (d??i d?ng tiotropium bromide monohydrate) + Olodaterol (d??i d?ng olodaterol hydrocloride),"2,5mcg/nhát x?t + 2,5mcg/nhát x?t",Dung d?ch ?? hít,Hít,?ng thu?c 4ml t??ng ???ng 60 nhát x?t  + 01 bình x?t
+352,Bích Ngân (Dung),Spiriva Respimat,Tiotropium,"0,0025mg/nhát x?t",Dung d?ch ?? hít,D?ng hít,?ng thu?c 4ml t??ng ???ng 60 nhát x?t + 01 bình x?t ??nh li?u
+353,Bích Ngân (Dung),Trajenta,Linagliptin,5mg,Viên nén bao phim,U?ng,Viên
+354,Bích Ngân (Dung),Trajenta Duo,Linagliptin + Metformin hydrochloride,"2,5mg + 1000mg",Viên nén bao phim,U?ng,Viên
+355,Bích Ngân (Dung),Trajenta Duo,Linagliptin + Metformin hydrochloride,"2,5mg + 500mg",Viên nén bao phim,U?ng,Viên
+356,Bích Ngân (Dung),Trajenta Duo,Linagliptin + Metformin HCl,"2,5mg + 850mg",Viên nén bao phim,U?ng,Viên
+357,Bích Ngân (Dung),Trajenta Duo,Linagliptin + Metformin hydrochloride,"2,5mg + 1000mg",Viên nén bao phim,U?ng,Viên
+358,Bích Ngân (Dung),Trajenta Duo,Linagliptin + Metformin hydrochloride,"2,5mg + 500mg",Viên nén bao phim,U?ng,Viên
+359,Bích Ngân (Dung),Trajenta Duo,Linagliptin + Metformin HCl,"2,5mg + 850mg",Viên nén bao phim,U?ng,Viên
+360,Bích Ngân (Dung),Twynsta,"Telmisartan + Amlodipine (d??i d?ng Amlodipine besilate 6,935mg) ",40mg + 5mg,Viên nén,U?ng,Viên
+361,Bích Ngân (Dung),Twynsta,"Telmisartan + Amlodipine (d??i d?ng Amlodipine besilate 6,935mg) ",80mg + 5mg,Viên nén,U?ng,Viên
+362,Bích Ngân (Dung),Twynsta,Telmisartan + Amlodipine (d??i d?ng Amlodipine besilate) ,80mg + 10mg,Viên nén,U?ng,Viên
+363,Bích Ngân (Dung),Twynsta,Amlodipine (d??i d?ng Amlodipine besilate) + Telmisartan,5mg + 40mg,Viên nén,U?ng,Viên
+364,Bích Ngân (Dung),Twynsta,Amlodipine (d??i d?ng Amlodipine besilate) + Telmisartan,5mg + 80mg,Viên nén,U?ng,Viên
+365,Bích Ngân (Thùy Duyên),Acular,Ketorolac tromethamine,"0,5%",Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+366,Bích Ngân (Thùy Duyên),Acuvail,Ketorolac tromethamine,"4,5mg/ml",Dung d?ch nh? m?t,Nh? m?t,"?ng 0,4ml"
+367,Bích Ngân (Thùy Duyên),Alphagan P,Brimonidin Tartrat,"7,5mg/5ml",Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+368,Bích Ngân (Thùy Duyên),Botox,Botulinum toxin* type A (* t? vi khu?n Clostridium botulinum),100 ??n v?,B?t s?y khô chân không vô khu?n ?? pha dung d?ch tiêm,Tiêm,L? 100 ??n v?
+369,Bích Ngân (Thùy Duyên),Combigan,Brimonidine tartrate + Timolol (d??i d?ng Timolol maleat),2mg/ml + 5mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+370,Bích Ngân (Thùy Duyên),FML Liquifilm,Fluorometholone,"0,1%",H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+371,Bích Ngân (Thùy Duyên),Ganfort,Bimatoprost + Timolol (d??i d?ng Timolol maleat 6.8mg),0.3mg/ml + 5mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 3ml
+372,Bích Ngân (Thùy Duyên),Lumigan,Bimatoprost,"0,3mg/3ml",Dung d?ch nh? m?t,Nh? m?t,L? ch?a 3ml dung d?ch trong l? dung tích 5ml
+373,Bích Ngân (Thùy Duyên),Optive,Natri carboxymethylcellulose + Glycerin,5mg/ml + 9mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 15ml
+374,Bích Ngân (Thùy Duyên),Optive UD,Carboxymethylcellulose natri (medium viscosity) + Carboxymethylcellulose natri (high viscosity) + Glycerin,"(3,25mg + 1,75mg + 9mg)/ml",Dung d?ch làm tr?n m?t,Nh? m?t,"?ng 0,4ml"
+375,Bích Ngân (Thùy Duyên),Ozurdex,Dexamethasone,700mcg/implant,Implant tiêm trong d?ch kính,Tiêm,1 gói ch?a 1 d?ng c? tiêm dùng 1 l?n + 1 que c?y
+376,Bích Ngân (Thùy Duyên),Pred Forte,Prednisolon acetat,1% w/v (10mg/ml),H?n d?ch nh? m?t,Nh? m?t,Chai 5ml
+377,Bích Ngân (Thùy Duyên),Refresh Liquigel,Carboxymethylcellulose Sodium,10mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 15ml
+378,Bích Ngân (Thùy Duyên),Refresh Tears,Natri Carboxymethyl cellulose,75mg/15ml,Dung d?ch nh? m?t,Nh? m?t,L? 15ml
+379,Bích Ngân (Thùy Duyên),Relestat,Epinastine HCl,0.5mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+380,Bích Ngân (Thùy Duyên),Restasis,Cyclosporin,"0,05% (0,5mg/g)",Nh? t??ng nh? m?t,Nh? m?t,"?ng 0,4ml"
+381,Bích Ngân (Thùy Duyên),Alimta,Pemetrexed (d??i d?ng Pemetrexed dinatri heptahydrat),100mg,B?t ?ông khô pha dung d?ch tiêm truy?n,Tiêm truy?n t?nh m?ch,L? 100mg
+382,Bích Ngân (Thùy Duyên),Alimta,Pemetrexed (d??i d?ng pemetrexed dinatri heptahydrate),100mg,B?t ?ông khô pha dung d?ch tiêm truy?n,Tiêm truy?n,L? 100mg
+383,Bích Ngân (Thùy Duyên),Alimta,Pemetrexed (d??i d?ng Pemetrexed dinatri heptahydrat),500mg,B?t ?ông khô pha dung d?ch tiêm truy?n,Tiêm truy?n t?nh m?ch,L? 500mg
+384,Bích Ngân (Thùy Duyên),Alimta,Pemetrexed (d??i d?ng pemetrexed dinatri heptahydrate),500mg,B?t ?ông khô pha dung d?ch tiêm truy?n,Tiêm truy?n,L? 500mg
+385,Bích Ngân (Thùy Duyên),Basaglar,Insulin glargine,300U/3ml,Dung d?ch tiêm,Tiêm,Bút tiêm 3ml
+386,Bích Ngân (Thùy Duyên),Cialis,Tadalafil,20mg,Viên nén bao phim,U?ng,Viên
+387,Bích Ngân (Thùy Duyên),Cialis,Tadalafil,5mg,Viên nén bao phim,U?ng,Viên
+388,Bích Ngân (Thùy Duyên),Cyramza,Ramucirumab,100mg/10ml,Dung d?ch ??m ??c ?? pha dung d?ch truy?n,Tiêm truy?n,L? 10ml
+389,Bích Ngân (Thùy Duyên),Cyramza,Ramucirumab,500mg/50ml,Dung d?ch ??m ??c ?? pha dung d?ch truy?n,Tiêm truy?n,L? 50ml
+390,Bích Ngân (Thùy Duyên),Gemzar,Gemcitabine (d??i d?ng Gemcitabine hydrochloride),1000mg,B?t ?ông khô ?? pha dung d?ch tiêm truy?n,Tiêm truy?n,"L? x 2,21g"
+391,Bích Ngân (Thùy Duyên),Gemzar,Gemcitabine (d??i d?ng Gemcitabine hydrochloride),200mg,B?t ?ông khô ?? pha dung d?ch tiêm truy?n,Tiêm truy?n,"L? x 442,5mg"
+392,Bích Ngân (Thùy Duyên),Humalog Kwikpen,Insulin lispro,"300U (t??ng ???ng 10,5mg)/3ml",Dung d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c x 3ml
+393,Bích Ngân (Thùy Duyên),Humalog Mix 75/25 Kwikpen,Insulin lispro (trong ?ó 25% là dung d?ch insulin lispro và 75% là h?n d?ch insulin lispro protamine),"300U (t??ng ???ng 10,5mg)/3ml",H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c x 3ml
+394,Bích Ngân (Thùy Duyên),Humalog Mix25 Kwikpen,Insulin lispro (trong ?ó 25% là dung d?ch insulin lispro và 75% là h?n d?ch insulin lispro protamin),"300U (t??ng ???ng 10,5mg)/3ml",H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c x 3ml
+395,Bích Ngân (Thùy Duyên),Humalog Mix50 Kwikpen,Insulin lispro (trong ?ó 50% là dung d?ch insulin lispro và 50% là h?n d?ch insulin lispro protamine),"300U (t??ng ???ng 10,5mg)/3ml",H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c x 3ml
+396,Bích Ngân (Thùy Duyên),Humalog Mix 50/50 Kwikpen,Insulin lispro (trong ?ó 50% là dung d?ch insulin lispro và 50% là h?n d?ch insulin lispro protamine),"300U (t??ng ???ng 10,5mg)/3ml",H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c x 3ml
+397,Bích Ngân (Thùy Duyên),Humulin 30/70 Kwikpen,Insulin ng??i (30% insulin hòa tan + 70% insulin isophan),300IU/3ml,H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c x 3ml
+398,Bích Ngân (Thùy Duyên),Olumiant,Baricitinib,2mg,Viên nén bao phim,U?ng,Viên
+399,Bích Ngân (Thùy Duyên),Olumiant,Baricitinib,4mg,Viên nén bao phim,U?ng,Viên
+400,Bích Ngân (Thùy Duyên),Verzenio,Abemaciclib,200mg,Viên nén bao phim,U?ng,Viên
+401,Bích Ngân (Thùy Duyên),Daivobet,"Calcipotriol (d??i d?ng Calcipotriol monohydrate 52,2mcg) + Betamethason (d??i d?ng Betamethason dipropionat 0,643mg)","50mcg/g + 0,5mg/g",Thu?c m?,Dùng ngoài,Tuýp 15g
+402,Bích Ngân (Thùy Duyên),Daivonex,Calcipotriol,50mcg/g,Thu?c m?,Dùng ngoài,Tuýp 30g
+403,Bích Ngân (Thùy Duyên),Fucicort,Fusidic acid + Betamethason (d??i d?ng valerat),"2% (w/w) + 0,1% (w/w)",Kem,Dùng ngoài,Tuýp 15g
+404,Bích Ngân (Thùy Duyên),Fucidin,Acid Fusidic,2% (w/w),Kem,Dùng ngoài,Tuýp 15g
+405,Bích Ngân (Thùy Duyên),Fucidin,Sodium Fusidate,2%,Thu?c m?,Dùng ngoài,Tuýp 15g
+406,Bích Ngân (Thùy Duyên),Fucidin H,Acid Fusidic + Hydrocortison acetat,20mg/g + 10mg/g,Kem,Dùng ngoài,Tuýp 15g
+407,Bích Ngân (Thùy Duyên),Protopic,Tacrolimus (d??i d?ng Tacrolimus monohydrate),1mg/g,Thu?c m?,Dùng ngoài,Tuýp 10g
+408,Bích Ngân (Thùy Duyên),Protopic,Tacrolimus (d??i d?ng Tacrolimus monohydrate),"0,3mg/g",Thu?c m?,Dùng ngoài,Tuýp 10g
+409,Bích Ngân (Thùy Duyên),Xamiol,Calcipotriol (d??i d?ng calcipotriol monohydrat) + Betamethason (d??i d?ng Betamethason dipropionat),"50mcg/g + 0,5mg/g",Gel bôi da,Dùng ngoài,L? 15g
+410,Bích Ngân (Thùy Duyên),Medrol,Methylprednisolone,4mg,Viên nén,U?ng,Viên
+411,Bích Ngân (Thùy Duyên),Debridat,Trimebutine maleate,100mg,Viên nén bao phim,U?ng,Viên
+412,Bích Ngân (Thùy Duyên),Zitromax,Azithromycin (d??i d?ng Azithromycin dihydrat),500mg,Viên nén bao phim,U?ng,Viên
+413,Bích Ngân (Thùy Duyên),Zitromax,Azithromycin (d??i d?ng Azithromycin dihydrat),200mg/5ml,B?t pha h?n d?ch u?ng,U?ng,L? 600mg/ 15ml
+414,Bích Ngân (Thùy Duyên),Medrol,Methylprednisolone,16mg,Viên nén,U?ng,Viên
+415,Bích Ngân (Thùy Duyên),Depo-Medrol,M?i ml ch?a: Methylprednisolon acetat,40mg,H?n d?ch tiêm,Tiêm,L? 1ml
+416,Bích Ngân (Thùy Duyên),Ciprofloxacin Polpharma,Ciprofloxacin (d??i d?ng Ciprofloxacin hydrochloride),200mg/100ml,Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n t?nh m?ch,Túi 100ml
+417,Bích Ngân (Thùy Duyên),Trichopol,Metronidazole,500mg/100ml,Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n t?nh m?ch,Túi 100ml
+418,Bích Ngân (Thùy Duyên),Aquadetrim vitamin D3,Cholecalciferol,15000 IU/ml,Dung d?ch u?ng,U?ng,L? 10ml
+419,Bích Ngân (Thùy Duyên),Biofazolin,Cefazolin (d??i d?ng cefazolin sodium),1g,B?t pha tiêm,Tiêm/ Tiêm truy?n t?nh m?ch,L?
+420,Bích Ngân (Thùy Duyên),Biofumoksym,Cefuroxim (d??i d?ng Cefuroxim sodium),"1,5g",B?t pha dung d?ch tiêm,Tiêm/ Tiêm truy?n t?nh m?ch,L?
+421,Bích Ngân (Thùy Duyên),Biofumoksym,Cefuroxim (d??i d?ng Cefuroxim natri),750mg,B?t pha dung d?ch ho?c h?n d?ch tiêm,Tiêm/ Tiêm truy?n t?nh m?ch,L?
+422,Bích Ngân (Thùy Duyên),Bio-Taksym,Cefotaxime (d??i d?ng Cefotaxime sodium),1g,B?t pha dung d?ch tiêm ho?c tiêm truy?n,Tiêm/ Tiêm truy?n t?nh m?ch,L?
+423,Bích Ngân (Thùy Duyên),Biseptol,Sulfamethoxazol + Trimethoprim,(200mg + 40mg)/5ml,H?n d?ch u?ng,U?ng,Chai 80ml
+424,Bích Ngân (Thùy Duyên),Bobotic Oral Drops,Simethicone,"66,66 mg/ml",H?n d?ch u?ng nh? gi?t,U?ng,Chai 30ml
+425,Bích Ngân (Thùy Duyên),Ciprofloxacin Polpharma,Ciprofloxacin (d??i d?ng Ciprofloxacin hydrocloride),400mg/200ml,Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n t?nh m?ch,Túi 200ml
+426,Bích Ngân (Thùy Duyên),Famogast,Famotidin,40mg,Viên nén bao phim,U?ng,Viên
+427,Bích Ngân (Thùy Duyên),Maxigra,Sildenafil (d??i d?ng Sildenafil citrat),50mg,Viên nén bao phim,U?ng,Viên
+428,Bích Ngân (Thùy Duyên),Paratramol,Tramadol hydrochloride + Paracetamol,"37,5 mg + 325 mg",Viên nén bao phim,U?ng,Viên
+429,Bích Ngân (Thùy Duyên),Pirolam,Ciclopirox olamin,10 mg/g,Gel,Dùng ngoài,Tuýp 20g
+430,Bích Ngân (Thùy Duyên),Polebufen ,Ibuprofen,100mg/5ml,H?n d?ch u?ng,U?ng,L? 100ml
+431,Bích Ngân (Thùy Duyên),Polebufen ,Ibuprofen,100mg/5ml,H?n d?ch u?ng,U?ng,L? 120ml
+432,Bích Ngân (Thùy Duyên),Polebufen,Ibuprofen,100mg/5ml,H?n d?ch u?ng,U?ng,L? 40ml
+433,Bích Ngân (Thùy Duyên),Poltraxon,Ceftriaxone (d??i d?ng Ceftriaxone sodium),1g,B?t pha tiêm,Tiêm,L?
+434,Bích Ngân (Thùy Duyên),Linezolid,Linezolid,2mg/ml,Dung d?ch tiêm truy?n,Tiêm truy?n t?nh m?ch,Túi 300ml
+435,Bích Ngân (Thùy Duyên),Zometa,M?i 100ml dung d?ch ch?a: Acid zoledronic (d??i d?ng Acid zoledronic monohydrate),4mg,Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 100ml
+436,Thùy Duyên,Gel tra mat GenTeal Lubricant Eye Gel,Hypromellose + Sodium perborate tetrahydrate + Carbomer (Carbopol 980) + Sorbitol + Sodium hydroxide ?i?u ch?nh pH; Dequest 2060S,"0,3% + 0,028% + 0,22% + 3,5% + 0,006%",Gel tra m?t,Tra m?t,Tuýp 10g
+437,Thùy Duyên,Nhu tuong nho mat SYSTANE COMPLETE Lubricant Eye Drops,Hydroxypropyl Guar + Mineral Oil (Heavy Mineral oil) + Polyquaternium-1 (POLYQUAD) + Dimyristoyl Phosphatidylglycerol + Polyoxyl 40 Stearate + Sorbitan Tristearate + Boric Acid + Propylene Glycol + Sorbitol + Edetate Disodium (EDTA) có th? ch?a acid hydrochloric và/ho?c natri hydroxide ?? ?i?u ch?nh pH,0.15% + 1.0% + 0.001% + 0.005% + 0.38% + 0.29% + 1.0% + 0.6% + 0.7% + 0.025,Nh? t??ng nh? m?t,Nh? m?t,L? 5ml
+438,Thùy Duyên,Systane Hydration Lubricant Eye Drops,Natri hyaluronate 0.15% + Polyethylene glycol 400 0.4% + Propylen glycol 0.3%,0.15% + 0.4% + 0.3%,Dung d?ch nh? m?t,Nh? m?t,H?p 1 l? 10ml
+439,Thùy Duyên,Dung d?ch nh? m?t Systane Ultra UD Lubricant Eye Drops,Hydroxypropyl Guar + Polyethylene Glycol 400 + Boric Acid + Propylene Glycol + Sorbitol + Kali Chloride + Natri Chloride + Aminomethylpropanol có th? ch?a Acid Hydrochloric và/ho?c Natri Hydroxide ?? ?i?u ch?nh PH,"0,16-0,19% W/V + 0,4% W/V + 0,7% W/V + 0,3% W/V + 1,4% W/V + 0,12% W/V + 0,1% W/V + 0,57% W/V",Dung d?ch nh? m?t,Nh? m?t,"?ng x 0,7 ml"
+440,Thùy Duyên,"Alcaine 0,5%",Proparacain hydroclorid,"0,5% (w/v)",Dung d?ch nh? m?t,Nh? m?t,L? 15ml
+441,Thùy Duyên,Systane,Polyethylene glycol 400 + Propylene glycol,4mg/ml + 3mg/ml,Dung d?ch nh? m?t vô khu?n,Nh? m?t,Chai 15ml
+442,Thùy Duyên,Systane Ultra,Polyethylene glycol 400 + Propylen glycol,"0,4% + 0,3%",Dung d?ch nh? m?t,Nh? m?t,L? 10ml
+443,Thùy Duyên,Systane Ultra,Polyethylene glycol 400 + Propylen glycol,"0,4% + 0,3%",Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+444,Thùy Duyên,Tears Naturale II,Dextran 70 + Hypromellose,"0,1% (w/v) + 0,3% (w/v)",Dung d?ch nh? m?t,Nh? m?t,L? 15ml (??m gi?t Droptainer)
+445,Thùy Duyên,Aricept Evess 10mg,Donepezil hydrochloride,10mg,Viên nén phân tán trong mi?ng,U?ng,Viên
+446,Thùy Duyên,Aricept Evess 5mg,Donepezil hydrochlorid,5mg,Viên nén phân tán trong mi?ng,U?ng,Viên
+447,Thùy Duyên,Fycompa 2mg,Perampanel,2mg,Viên nén bao phim,U?ng,Viên
+448,Thùy Duyên,Fycompa 4mg,Perampanel,4mg,Viên nén bao phim,U?ng,Viên
+449,Thùy Duyên,Fycompa 8mg,Perampanel,8mg,Viên nén bao phim,U?ng,Viên
+450,Thùy Duyên,Halaven,Eribulin mesylate (t??ng ???ng Eribulin),"1mg/2ml (t??ng ???ng 0,88mg/2ml)",Dung d?ch tiêm,Tiêm,L? 2ml
+451,Thùy Duyên,Lenvima 10mg,Lenvatinib (d??i d?ng lenvatinib mesilate),10mg,Viên nang c?ng,U?ng,Viên
+452,Thùy Duyên,Lenvima 4mg,Lenvatinib (d??i d?ng lenvatinib mesilate),4mg,Viên nang c?ng,U?ng,Viên
+453,Thùy Duyên,Methycobal 500µg,Mecobalamin,"0,5mg",Viên nén bao ???ng,U?ng,Viên
+454,Thùy Duyên,Methycobal Injection 500 µg,Mecobalamin,"0,5mg/ml",Dung d?ch tiêm,Tiêm,?ng 1ml
+455,Thùy Duyên,Myonal 50mg,Eperison hydroclorid,50mg,Viên nén bao ???ng,U?ng,Viên
+456,Thùy Duyên,Lamisil,Terbinafine hydrocloride,10mg/1g,Kem bôi ngoài da,Ngoài da,Tuýp 5g
+457,Thùy Duyên,CalSource 600mg + 400 IU Vitamin D3,"Calci lactat gluconat (t??ng ???ng v?i 179,6mg calci nguyên t?) + Calci carbonat (t??ng ???ng 420,4mg calci nguyên t?) + Cholecalciferol d?ng b?t cô ??c (t??ng ???ng 400IU vitamin D3)",1358mg + 1050mg + 4mg,Viên nén s?i,U?ng,Viên
+458,Thùy Duyên,CalSource Ca-C 1000 Orange,Acid ascorbic + Calci carbonat + Calci lactat gluconat,1000mg + 327mg + 1000mg (t??ng ???ng calci nguyên t? 260mg),Viên nén s?i b?t,U?ng,Viên
+459,Thùy Duyên,CalSource,Calci (t??ng ???ng Calci carbonat) + Calci lactat gluconat,500mg (300mg) + 2940mg,Viên nén s?i b?t,U?ng,Viên
+460,Thùy Duyên,Otrivin,Xylometazoline Hydrochloride,5mg/10ml,Dung d?ch nh? m?i,Nh? m?i,L? 10ml
+461,Thùy Duyên,Otrivin,Xylometazoline Hydrochloride,5mg/10ml,Thu?c x?t m?i có phân li?u,X?t m?i,L? 10ml
+462,Thùy Duyên,Otrivin,Xylometazoline Hydrochloride,10mg/10ml,Dung d?ch nh? m?i,Nh? m?i,L? 10ml
+463,Thùy Duyên,Otrivin,Xylometazoline Hydrochloride,10mg/10ml,Thu?c x?t m?i có phân li?u,X?t m?i,L? 10ml
+464,Thùy Duyên,Panadol,Paracetamol,500mg,Viên nén bao phim,U?ng,Viên
+465,Thùy Duyên,Panadol c?m cúm,Caffeine + Paracetamol + Phenylephrine Hydrochloride,25mg + 500mg + 5mg,Viên nén bao phim,U?ng,Viên
+466,Thùy Duyên,Panadol Extra,Caffein + Paracetamol,65mg + 500mg,Viên nén,U?ng,Viên
+467,Thùy Duyên,Panadol Extra with Optizorb,Paracetamol + Cafein,500mg + 65mg,Viên ne?n bao phim,U?ng,Viên
+468,Thùy Duyên,Panadol Viên S?i,Paracetamol,500mg,Viên s?i,U?ng,Viên
+469,Thùy Duyên,Voltaren Emulgel,Diclofenac diethylamine,"1,16g/100g gel",Gel bôi ngoài da,Ngoài da,Tuýp 20g
+470,Thùy Duyên,Voltaren Emulgel,Diclofenac diethylamine,"1,16g/100g",Gel bôi ngoài da,Ngoài da,Tuýp 20g
+471,Thùy Duyên,Darzalex,Daratumumab,20mg/ml,Dung d?ch ??m ??c ?? pha dung d?ch truy?n,Tiêm truy?n,L? 5ml
+472,Thùy Duyên,Darzalex,Daratumumab,20mg/ml,Dung d?ch ??m ??c ?? pha dung d?ch truy?n,Tiêm truy?n,L? 20ml
+473,Thùy Duyên,Erleada,Apalutamide,60mg,Viên nén bao phim,U?ng,L? 120 viên
+474,Thùy Duyên,Imbruvica,Ibrutinib,140mg,Viên nang c?ng,U?ng,Viên
+475,Thùy Duyên,Invega Sustenna,Paliperidone palmitate (t??ng ???ng v?i paliperidone),156mg/1ml (t??ng ???ng 100mg/1ml),H?n d?ch tiêm gi?i phóng kéo dài,Tiêm,1 ?ng tiêm 1ml ?óng s?n thu?c + 2 kim tiêm an toàn
+476,Thùy Duyên,Invega Sustenna,Paliperidone palmitate (t??ng ???ng v?i paliperidone),"234mg/1,5ml (t??ng ???ng 150mg/1,5ml)",H?n d?ch tiêm gi?i phóng kéo dài,Tiêm,"1 ?ng tiêm 1,5ml ?óng s?n thu?c + 2 kim tiêm an toàn"
+477,Thùy Duyên,Invega Sustenna,Paliperidone palmitate (t??ng ???ng v?i paliperidone),"117mg/0,75ml (t??ng ???ng 75mg/0,75ml)",H?n d?ch tiêm gi?i phóng kéo dài,Tiêm,"1 ?ng tiêm 0,75ml ?óng s?n thu?c + 2 kim tiêm an toàn"
+478,Thùy Duyên,Remicade,Infliximab,100mg,B?t pha dung d?ch ??m ??c ?? pha dung d?ch truy?n,Tiêm truy?n,L? 100mg
+479,Thùy Duyên,Ribomustin,Bendamustin hydroclorid,"100mg (t??ng ???ng 90,8mg Bendamustin)",B?t ?ông khô pha dung d?ch ??m ??c ?? pha dung d?ch truy?n t?nh m?ch,Tiêm,L? 100mg
+480,Thùy Duyên,Ribomustin,Bendamustin hydroclorid,"25mg (t??ng ???ng 22,7mg Bendamustin)",B?t ?ông khô pha dung d?ch ??m ??c ?? pha dung d?ch truy?n t?nh m?ch,Tiêm,L? 25mg
+481,Thùy Duyên,Risperdal,Risperidone,1mg,Viên nén bao phim,U?ng,Viên
+482,Thùy Duyên,Risperdal,Risperidone,2mg,Viên nén bao phim,U?ng,Viên
+483,Thùy Duyên,Rybrevant,Amivantamab,350mg/7ml,Dung d?ch ??m ??c ?? pha dung d?ch truy?n,Truy?n,L? 7ml
+484,Thùy Duyên,Simponi,Golimumab,"50mg/0,5ml",Dung d?ch tiêm,Tiêm,"1 bút tiêm ch?a s?n 0,5ml thu?c"
+485,Thùy Duyên,Simponi I.V.,Golimumab,50mg/4ml,Dung d?ch ??m ??c pha tiêm truy?n,Tiêm truy?n,L? 4ml
+486,Thùy Duyên,Stelara,Ustekinumab,"45mg/0,5ml",Dung d?ch tiêm,Tiêm,1 b?m tiêm ch?a s?n 1 ml thu?c
+487,Thùy Duyên,Stelara,Ustekinumab,"45mg/0,5ml",Dung d?ch tiêm,Tiêm,"1 b?m tiêm ch?a s?n 0,5 ml thu?c"
+488,Thùy Duyên,Stelara,Ustekinumab,130mg/26ml,Dung d?ch ??m ??c pha truy?n,Tiêm truy?n,L? 26ml
+489,Thùy Duyên,Tremfya,Guselkumab,100mg/ml,Dung d?ch tiêm,Tiêm,B?m tiêm 1ml
+490,Thùy Duyên,Velcade,Bortezomib,1mg,B?t pha tiêm t?nh m?ch,Tiêm,L? 1mg
+491,Thùy Duyên,Zytiga,Abiraterone acetate,250mg,Viên nén,U?ng,Viên
+492,Thùy Duyên,Zytiga,Abiraterone Acetate,500mg,Viên nén bao phim,U?ng,Viên
+493,Thùy Duyên,Velcade,Bortezomib,"3,5mg",B?t pha dung d?ch tiêm,Tiêm,"L? 3,5mg"
+494,Thùy Duyên,Children's Tylenol,Acetaminophen,"80mg/2,5ml",H?n d?ch u?ng,U?ng,Chai 60ml kèm 01 c?c ?ong
+495,Thùy Duyên,Daktarin oral gel,Miconazole,200mg/10g,Gel r? mi?ng,?ánh t?a l??i,Tuýp 10g
+496,Thùy Duyên,Imodium,Loperamide hydrochlorid,2mg,Viên nang,U?ng,Viên
+497,Thùy Duyên,Imodium,Loperamide hydrochloride,2mg,Viên nang c?ng,U?ng,Viên
+498,Thùy Duyên,Motilium-M,"Domperidone maleate, 10mg Domperidone",10mg,Viên nén bao phim,U?ng,Viên
+499,Thùy Duyên,Rhinocort Aqua,Budesonide,"64µg (mcg); 0,05ml/1 li?u x?t",H?n d?ch x?t m?i,X?t m?i,Chai x 120 li?u
+500,Thùy Duyên,Th?c ph?m b?o v? s?c kh?e Smebiocta LP299v,Lactobacillus plantarum 299V,? 10 x 10^9 CFU,Viên nang c?ng,U?ng,Viên
+501,Thùy Duyên,Forlax,Macrogol 4000,10g,B?t pha dung d?ch u?ng,U?ng,Gói 10g
+502,Thùy Duyên,Forlax 4g,Macrogol 4000 (Polyethylene glycol 4000),4g,B?t pha dung d?ch u?ng,U?ng,Gói
+503,Thùy Duyên,Fortrans,Macrogol 4000 + Anhydrous sodium sulfate + Sodium bicarbonate + Sodium chloride + Potassium chloride,"64g + 5,7g + 1,68g + 1,46g + 0,75g",B?t pha dung d?ch u?ng,U?ng,Gói
+504,Thùy Duyên,Gastropulgite,Attapulgite + Aluminum hydroxide and magnesium carbonate,"2,5g + 0,5g",B?t pha h?n d?ch u?ng,U?ng,Gói 3g
+505,Thùy Duyên,Smecta,Diosmectite,3g,B?t pha h?n d?ch u?ng,U?ng,Gói 3.76g
+506,Thùy Duyên,Smecta,Diosmectite,3g,B?t pha h?n d?ch u?ng,U?ng,Gói 3.76g
+507,Thùy Duyên,Smecta h??ng dâu,Diosmectit,3g,B?t pha h?n d?ch u?ng,U?ng,Gói 3g
+508,Thùy Duyên,Smectago,Diosmectite,3g,H?n d?ch u?ng,U?ng,Gói 3g
+509,Thùy Duyên,SmectaGo,Diosmectite,3g,H?n d?ch u?ng,U?ng,Gói 10g
+510,Thùy Duyên,Tanakan,Ginkgo biloba extract,40mg,Viên nén bao phim,U?ng,Viên
+511,Thùy Duyên,Mucosta Tablets 100mg,Rebamipid,100mg,Viên nén bao phim,U?ng,Viên
+512,Thùy Duyên,Mucosta tablets 100mg,Rebamipid,100mg,Viên nén bao phim,U?ng,Viên
+513,Thùy Duyên,Pletaal tablets 100mg,Cilostazol,100mg,Viên nén,U?ng,Viên
+514,Thùy Duyên,Samsca tablets 15mg,Tolvaptan,15mg,Viên nén,U?ng,Viên
+515,Thùy Duyên,Scilin M30 (30/70),Insulin ng??i tái t? h?p (30% insulin hòa tan & 70% insulin isophan),100IU/ml,H?n d?ch tiêm,"Tiêm d??i da, tiêm b?p",?ng 3ml
+516,Thùy Duyên,Bronuck ophthalmic solution 0.1%,Bromfenac natri hydrat,1mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+517,Thùy Duyên,Natamycin Ophthalmic Suspension 5%,Natamycin,50mg/mL,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+518,Thùy Duyên,Tearbalance Ophthalmic solution 0.1%,Natri hyaluronat,1mg/ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+519,Thùy Trang,Actelsar,Telmisartan,40mg,Viên nén,U?ng,Viên
+520,Thùy Trang,Axitan 40mg,Pantoprazol (d??i d?ng Pantoprazol natri sesquihydrat),40mg,Viên nén bao tan trong ru?t,U?ng,Viên
+521,Thùy Trang,Bisoprolol Fumarate 2.5mg,Bisoprolol fumarate,"2,5mg",Viên nén,U?ng,Viên
+522,Thùy Trang,Bloktiene 4mg,Montelukast (d??i d?ng Montelukast natri),4mg,Viên nén nhai,U?ng,Viên
+523,Thùy Trang,Brieka 75mg,Pregabalin,75mg,Viên nang c?ng,U?ng,Viên
+524,Thùy Trang,Bromhexin Actavis 8mg,Bromhexin hydrochlorid,8mg,Viên nén,U?ng,Viên
+525,Thùy Trang,"Budesonide Teva 0,5mg/2ml",Budesonide,"0,5mg/2ml",H?n d?ch khí dung,???ng hô h?p,?ng 2ml
+526,Thùy Trang,Buto-Asma,Salbutamol (d??i d?ng Salbutamol Sulfate),100mcg/li?u,Khí dung ?ã chia li?u,???ng hô h?p,Bình x?t ch?a 200 li?u (10ml) + ??u x?t ??nh li?u
+527,Thùy Trang,Clopidogrel/Aspirin Teva 75mg/100mg,Clopidogrel (d??i d?ng clopidogrel bisulphate) + Acetylsalicylic acid,75mg + 100mg,Viên nén,U?ng,Viên
+528,Thùy Trang,Dex-Tobrin,Tobramycin (d??i d?ng tobramycin sulfate) + Dexamthasone,3mg/ml + 1mg/ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+529,Thùy Trang,Dutasteride Teva 0.5mg,Dutasteride,"0,5mg",Viên nang m?m,U?ng,Viên
+530,Thùy Trang,Elarothene,Desloratadin,5mg,Viên nén bao phim,U?ng,Viên
+531,Thùy Trang,Entecavir Teva 0.5mg,Entecavir (d??i d?ng Entecavir monohydrate),0.5mg,Viên nén bao phim,U?ng,Viên
+532,Thùy Trang,Equoral 25mg,Ciclosporin,25mg,Viên nang m?m,U?ng,Viên
+533,Thùy Trang,Etoricoxib Teva 60mg,Etoricoxib,60mg,Viên nén bao phim,U?ng,Viên
+534,Thùy Trang,Etoricoxib Teva 90mg,Etoricoxib,90mg,Viên nén bao phim,U?ng,Viên
+535,Thùy Trang,Freeclo,Clopidogrel (d??i d?ng Clopidogrel bisulfate),75mg,Viên nén bao phim,U?ng,Viên
+536,Thùy Trang,Imatinib Teva 100mg,Imatinib (d??i d?ng imatinib mesilate),100mg,Viên nén bao phim,U?ng,Viên
+537,Thùy Trang,Imatinib Teva 400mg,Imatinib (d??i d?ng Imatinib mesilate),400mg,Viên nén bao phim,U?ng,Viên
+538,Thùy Trang,Irprestan 150mg,Irbesartan,150mg,Viên nén bao phim,U?ng,Viên
+539,Thùy Trang,Meloxicam-Teva 15mg,Meloxicam,15mg,Viên nén,U?ng,Viên
+540,Thùy Trang,Meloxicam-Teva 7.5mg,Meloxicam,"7,5mg",Viên nén,U?ng,Viên
+541,Thùy Trang,Mycophenolate mofetil Teva,Mycophenolat mofetil,500mg,Viên nén bao phim,U?ng,Viên
+542,Thùy Trang,Olmed 10mg,Olanzapine,10mg,Viên nén bao phim,U?ng,Viên
+543,Thùy Trang,Olmed 5mg,Olanzapine,5mg,Viên nén bao phim,U?ng,Viên
+544,Thùy Trang,Picaroxin 500mg,Ciprofloxacin (d??i d?ng ciprofloxacin hydrochloride),500mg,Viên nén bao phim,U?ng,Viên
+545,Thùy Trang,Pregabalin Teva 75mg,Pregabalin,75mg,Viên nang c?ng,U?ng,Viên
+546,Thùy Trang,Sildenafil Teva 100mg,Sildenafil (d??i d?ng Sildenafil citrate),100mg,Viên nén bao phim,U?ng,Viên
+547,Thùy Trang,Sildenafil Teva 50mg,Sildenafil (d??i d?ng Sildenafil citrate),50mg,Viên nén bao phim,U?ng,Viên
+548,Thùy Trang,Tobrin 0.3%,Tobramycin,3mg/ml (0.3%),Dung d?ch thu?c nh? m?t,Nh? m?t,L? 5ml
+549,Thùy Trang,Amiyu Granules,L-Isoleucin + L-Leucin + L-Lysin Hydrochlorid + LMethionin + L-Phenylalanin + L-Threonin + LTryptophan + L-Valin + LHistidin Hydrochlorid Hydrat,"203,9mg + 320,3mg + 291,0mg + 320,3mg + 320,3mg + 145,7mg + 72,9mg + 233,0mg + 216,2mg",C?m,U?ng,Gói 2.5g
+550,Thùy Trang,Atelec Tablets 10,Cilnidipine,10mg,Viên nén bao phim,U?ng,Viên
+551,Thùy Trang,Livact Granules,L-Isoleucin + L-Leucin + L-Valin,952mg + 1904mg + 1144mg,C?m pha dung d?ch u?ng,U?ng,"Gói 4,15g"
+552,Thùy Trang,Morihepamin,L-Isoleucin + L-Leucin + LLysin acetat + LMethionin + LPhenylalanin + L-Threonin + LTryptophan + LValin + L-Alanin + L-Arginin + L-Aspartic acid + L-Histidin + L-Prolin + L-Serin + LTyrosin + Glycin,"(0,920g + 0,945g + 0,395g + 0,044g + 0,030g + 0,214g + 0,070g + 0,890g + 0,840g + 1,537g + 0,020g + 0,310g + 0,530g + 0,260g + 0,040g + 0,540g)/100ml; 7,58%",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Túi 200ml
+553,Thùy Trang,Morihepamin,L-Isoleucin + L-Leucin + LLysin acetat + LMethionin + LPhenylalanin + L-Threonin + LTryptophan + LValin + L-Alanin + L-Arginin + L-Aspartic acid + L-Histidin + L-Prolin + L-Serin + LTyrosin + Glycin,"(0,920g + 0,945g + 0,395g + 0,044g + 0,030g + 0,214g + 0,070g + 0,890g + 0,840g + 1,537g + 0,020g + 0,310g + 0,530g + 0,260g + 0,040g + 0,540g)/100ml; 7,58%",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Túi 500ml
+554,Thùy Trang,Neoamiyu,LIsoleucin + L-Leucin + L-Lysin acetat + LMethionin + L-Phenylalanin + LThreonin + L-Tryptophan + L-Valin + L-Alanin + L-Arginin + LAspartic acid + L-Glutamic acid + LHistidin + L-Prolin + L-Serin + L-Tyrosin + Glycin,"(1,500gam + 2,000gam + 1,400gam + 1,000gam + 1,000gam + 0,500gam + 0,500gam + 1,500gam + 0,600gam + 0,600gam + 0,050gam + 0,050gam + 0,500gam + 0,400gam + 0,200gam + 0,100gam + 0,300gam)/200ml; 6,1%",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Túi 200ml
+555,Thùy Trang,Aerrane,Isoflurane,100% (v/v); 100ml,Ch?t l?ng d? bay h?i dùng gây mê ???ng hô h?p,D?ng hít,Chai 100 ml
+556,Thùy Trang,Aerrane,Isoflurane,100% (v/v); 250ml,Ch?t l?ng d? bay h?i dùng gây mê ???ng hô h?p,D?ng hít,Chai 250ml
+557,Thùy Trang,Cernevit,Acid Ascorbic + Cocarboxylase tetrahydrate t??ng ???ng Thiamine + Cyanocobalamine + Cholecalciferol + D-Biotin + Dexpanthenol t??ng ???ng Pantothenic acid + DL alpha-tocopherol t??ng ???ng alpha-tocopherol + Folic acid + Retinol palmitate t??ng ???ng Retinol + Riboflavin dihydrate sodium phosphate t??ng ???ng Riboflavin + Pyridoxine hydrochloride t??ng ???ng Pyridoxin + Nicotinamide,"125mg + 5,8mg (t??ng ???ng 3,51mg) + 0,006mg + 220 IU + 0,069mg + 16,15mg (t??ng ???ng 17,25mg) + 10,2mg (t??ng ???ng 11,2 IU) + 0,414mg + 3500 IU + 5,67mg (t??ng ???ng 4,14mg) + 5,5mg (t??ng ???ng 4,53mg) + 46mg",B?t ?ông khô pha tiêm,Tiêm,L?
+558,Thùy Trang,Clinoleic 20%,H?n h?p d?u oliu tinh khi?t (kho?ng 80%) và d?u ??u nành tinh khi?t (kho?ng 20%),20g/100ml,Nh? d?ch lipid truy?n t?nh m?ch,Tiêm truy?n,Túi 100ml
+559,Thùy Trang,Clinoleic 20%,H?n h?p d?u oliu tinh khi?t (kho?ng 80%) và d?u ??u nành tinh khi?t (kho?ng 20%),50g/250ml,Nh? d?ch lipid truy?n t?nh m?ch,Tiêm truy?n,Thùng 20 túi x 250ml
+560,Thùy Trang,Endoxan,Cyclophosphamide,200mg,B?t pha tiêm,Tiêm,L? 200mg
+561,Thùy Trang,Endoxan,Cyclophosphamide,500mg,B?t pha tiêm,Tiêm,L? 500mg
+562,Thùy Trang,Holoxan,Ifosfamide,1g,B?t pha tiêm,Tiêm,L? 1g
+563,Thùy Trang,Holoxan,Ifosfamide,1g,B?t pha tiêm,Tiêm,L? 1g
+564,Thùy Trang,Olimel N9E,Alanine + Arginine + Aspartic acid + Glutamic acid + Glycine + Histidine + Isoleucine + Leucine + Lysine (d??i d?ng Lysine acetate) + Methionine + Phenylalanine + Proline + Serine + Threonine + Tryptophan + Tyrosine + Valine + Natri acetat trihydrat + Natri glycerophosphate hydrat + Kali clorid + Magnesi clorid hexahydrat + Calci clorid dihydrat + Glucose anhydrous + D?u Oliu tinh khi?t và d?u ??u nành tinh khi?t,"(8,24g + 5,58g + 1,65g + 2,84g + 3,95g + 3,4g + 2,84g + 3,95g + 4,48g + 2,84g + 3,95g + 3,4g + 2,25g + 2,84g + 0,95g + 0,15g + 3,64g + 1,5g + 3,67g + 2,24g + 0,81g + 0,52g + 110g + 40g)/1000ml",Nh? d?ch truy?n t?nh m?ch,Tiêm truy?n,Túi plastic 1000ml
+565,Thùy Trang,Periolimel N4E,Alanine + Arginine + Aspartic acid + Glutamic acid + Glycine + Histidine + Isoleucine + Leucine + Lysine (d??i d?ng Lysine acetate) + Methionine + Phenylalanine + Proline + Serine + Threonine + Tryptophan + Tyrosine + Valine + Natri acetat trihydrat + Natri glycerophosphate hydrat + Kali clorid + Magnesi clorid hexahydrat + Calci clorid dihydrat + Glucose anhydrous + D?u oliu tinh khi?t và d?u ??u nành tinh khi?t,"(3,66g + 2,48g + 0,73g + 1,26g + 1,76g + 1,51g + 1,26g + 1,76g + 1,99g + 1,26g + 1,76g + 1,51g + 1,00g + 1,26g + 0,42g + 0,06g + 1,62g + 1,16g + 1,91g + 1,19g + 0,45g + 0,30g + 75g + 30g)/1000ml; 1000ml",Nh? d?ch truy?n t?nh m?ch,Tiêm truy?n,Túi plastic 1000ml
+566,Thùy Trang,Periolimel N4E,Alanine + Arginine + Aspartic acid + Glutamic acid + Glycine + Histidine + Isoleucine + Leucine + Lysine (d??i d?ng Lysine acetate) + Methionine + Phenylalanine + Proline + Serine + Threonine + Tryptophan + Tyrosine + Valine + Natri acetat trihydrat + Natri glycerophosphate hydrat + Kali clorid + Magnesi clorid hexahydrat + Calci clorid dihydrat + Glucose anhydrous + D?u oliu tinh khi?t và d?u ??u nành tinh khi?t,"(3,66g + 2,48g + 0,73g + 1,26g + 1,76g + 1,51g + 1,26g + 1,76g + 1,99g + 1,26g + 1,76g + 1,51g + 1,00g + 1,26g + 0,42g + 0,06g + 1,62g + 1,16g + 1,91g + 1,19g + 0,45g + 0,30g + 75g + 30g)/1000ml; 1500ml",Nh? d?ch truy?n t?nh m?ch,Tiêm truy?n,Túi plastic 1500ml
+567,Thùy Trang,Plasma-Lyte A Injection pH 7.4,Clorua Natri + Gluconate Natri + Trihydrate Acetate Natri + Clorua Kali + Clorua Magne,(526mg + 502mg + 368mg + 37mg + 30mg)/100ml,D?ch truy?n t?nh m?ch,Tiêm truy?n,Túi 1000ml
+568,Thùy Trang,Sevoflurane,Sevoflurane,100% (tt/tt),Ch?t l?ng d? bay h?i dùng gây mê ???ng hô h?p,D?ng hít,Chai 250ml
+569,Thùy Trang,Suprane,Desflurane,100% (v/v),Ch?t l?ng d? bay h?i dùng gây mê ???ng hô h?p,D?ng hít,Chai 240ml
+570,Thùy Trang,Uromitexan,Mesna,400mg/4ml,Dung d?ch tiêm truy?n,Tiêm truy?n,?ng 4ml
+571,Thùy Trang,D?ch truy?n t?nh m?ch Glucose 5%,"Glucose (d??i d?ng Glucose monohydrat 5,5g)","5g (5,5g)/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai nh?a 100ml
+572,Thùy Trang,"D?ch truy?n t?nh m?ch Natri Clorid 0,9%",Natri clorid,"0,9g/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 100ml
+573,Thùy Trang,D?ch truy?n t?nh m?ch Metronidazol,Metronidazol,"0,5g/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 100ml
+574,Thùy Trang,D?ch truy?n t?nh m?ch Ringer Lactat,Natri Clorid + Natri lactat + Kali clorid + Calci clorid.2H2O,"3g + 1,56g + 0,2g + 0,135g",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+575,Thùy Trang,D?ch truy?n t?nh m?ch Glucose 5%,"Glucose (d??i d?ng Glucose monohydrat 5,5g)","5g (5,5g)/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+576,Thùy Trang,"D?ch truy?n t?nh m?ch Natri clorid 0,9%",Natri clorid,"0,9g/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+577,Thùy Trang,D?ch truy?n t?nh m?ch Glucose 10%,"Glucose (d??i d?ng Glucose Monohydrat 27,5g)",25g/250ml,Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+578,Thùy Trang,D?ch truy?n t?nh m?ch Glucose 20%,Glucose (d??i d?ng Glucose monohydrat 55g),50g (55g)/250ml,Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+579,Thùy Trang,D?ch truy?n t?nh m?ch Glucose 30%,Glucose (d??i d?ng Glucose Monohydrat 165g),150g/500ml,Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+580,Thùy Trang,"D?ch truy?n t?nh m?ch NaCl 0,45%",Natri clorid,"2,25g/500ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+581,Thùy Trang,D?ch truy?n t?nh m?ch Ringer Lactat và Glucose 5%,Natri clorid + Natri Lactat + Kali clorid + Calci Clorid. 2H2O + Glucose monohydrat,"3g + 1,56g + 0.2g + 0,135g + 27,5g",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+582,Thùy Trang,"D?ch truy?n t?nh m?ch Natri Clorid 0,9% và Glucose 5%","Natri Clorid + Glucose (d??i d?ng Glucose monohydrat 27,5g)","(4,5g + 25g)/500ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+583,Thùy Trang,Osmofundin,Mannitol,"17,5g/100ml",D?ch truy?n t?nh m?ch,Tiêm truy?n,Chai nh?a 250ml
+584,Thùy Trang,"D?ch truy?n t?nh m?ch Natri Clorid 0,9%",Natri clorid,"0,9g/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 1000ml
+585,Thùy Trang,"D?ch truy?n t?nh m?ch Natri clorid 0,9%",Natri clorid,"0,9g/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500 dung tích thu?c 250ml
+586,Thùy Trang,D?ch truy?n t?nh m?ch Glucose 5%,"Glucose (d??i d?ng Glucose monohydrat 5,5g)","5g (5,5g)/100ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 500 ch?a 250ml dung d?ch
+587,Thùy Trang,4.2% w/v Sodium Bicarbonate,Natri bicarbonat,"10,5g/250ml",Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai th?y tinh 250ml
+588,Thùy Trang,Aminoplasmal B.Braun 10% E,"Isoleucine + Leucine + Lysine hydrochloride (t??ng ???ng v?i Lysine 1,7125gam) + Methionine + Phenylalanine + Threonine + Tryptophan + Valine + Arginine + Histidine + Alanine + Glycine + Aspartic acid + Glutamic Acid + Proline + Serine + Tyrosine + Sodium acetate trihydrate + Sodium hydroxide + Potassium acetate + Magnesium chloride hexahydrate + Disodium phosphate dodecahydrate","(1,25gam + 2,225gam + 2,14gam + 1,10gam + 1,175gam + 1,05gam + 0,40gam + 1,55gam + 2,875gam + 0,75gam + 2,625gam + 3,00gam + 1,40gam + 1,80gam + 1,375gam + 0,575gam + 0,10gam + 0,7145gam + 0,09gam + 0,61325gam + 0,127gam + 0,89525gam)/250ml",Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 250ml
+589,Thùy Trang,Aminoplasmal B.Braun 10% E,"Isoleucine + Leucine + Lysine hydrochloride (t??ng ???ng v?i Lysine 1,7125gam) + Methionine + Phenylalanine + Threonine + Tryptophan + Valine + Arginine + Histidine + Alanine + Glycine + Aspartic acid + Glutamic Acid + Proline + Serine + Tyrosine + Sodium acetate trihydrate + Sodium hydroxide + Potassium acetate + Magnesium chloride hexahydrate + Disodium phosphate dodecahydrate","(1,25gam + 2,225gam + 2,14gam + 1,10gam + 1,175gam + 1,05gam + 0,40gam + 1,55gam + 2,875gam + 0,75gam + 2,625gam + 3,00gam + 1,40gam + 1,80gam + 1,375gam + 0,575gam + 0,10gam + 0,7145gam + 0,09gam + 0,61325gam + 0,127gam + 0,89525gam)/250ml",Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+590,Thùy Trang,Aminoplasmal B.Braun 5% E,"Isoleucine + Leucine + Lysine hydrochloride (t??ng ???ng v?i Lysine 0,8575gam) + Methionine + Phenylalanine + Threonine + Tryptophan + Valine + Arginine + Histidine + Alanine + Glycine + Aspartic acid + Glutamic Acid + Proline + Serine + Tyrosine + Sodium acetate trihydrate + Sodium hydroxide + Potassium acetate + Sodium chloride + Magnesium chloride hexahydrate + Disodium phosphate dodecahydrate","(0,625gam + 1,1125gam + 1,07gam + 0,55gam + 0,5875gam + 0,525gam + 0,20gam + 0,775gam + 1,4375gam + 0,375gam + 1,3125gam + 1,50gam + 0,70gam + 0,90gam + 0,6875gam + 0,2875gam + 0,10gam + 0,34025gam + 0,035gam + 0,61325gam + 0,241gam + 0,127gam + 0,89525gam)/250ml",Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 250ml
+591,Thùy Trang,Aminoplasmal B.Braun 5% E,"Isoleucine + Leucine + Lysine hydrochloride (t??ng ???ng v?i Lysine 0,8575gam) + Methionine + Phenylalanine + Threonine + Tryptophan + Valine + Arginine + Histidine + Alanine + Glycine + Aspartic acid + Glutamic Acid + Proline + Serine + Tyrosine + Sodium acetate trihydrate + Sodium hydroxide + Potassium acetate + Sodium chloride + Magnesium chloride hexahydrate + Disodium phosphate dodecahydrate","(0,625gam + 1,1125gam + 1,07gam + 0,55gam + 0,5875gam + 0,525gam + 0,20gam + 0,775gam + 1,4375gam + 0,375gam + 1,3125gam + 1,50gam + 0,70gam + 0,90gam + 0,6875gam + 0,2875gam + 0,10gam + 0,34025gam + 0,035gam + 0,61325gam + 0,241gam + 0,127gam + 0,89525gam)/250ml",Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+592,Thùy Trang,Aminoplasmal Hepa 10%,Isoleucine + Leucine + Lysine (d??i d?ng Lysine Acetate) + Methionine + Phenylalanine + Threonine + Tryptophan + Valine + Arginine + Histidine + Glycine + Alanine + Proline + Aspartic Acid + Asparagine + Cystein (d??i d?ng Acetylcystein) + Glutamic Acid + Ornithine (d??i d?ng Ornithine HCl) + Serine + Tyrosine (d??i d?ng N -Acetyltyrosine),"(4,4gam + 6,8gam + 3,755gam + 0,6gam + 0,8gam + 2,3gam + 0,75gam + 5,3gam + 4,4gam + 2,35gam + 3,15gam + 4,15gam + 3,55gam + 1,25gam + 0,24gam + 0,295gam + 2,85gam + 0,65gam + 1,85gam + 0,35gam)/500ml",Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 500ml
+593,Thùy Trang,Etomidate-Lipuro,Etomidate,20mg/10ml,Nh? t??ng tiêm,Tiêm,?ng 10ml
+594,Thùy Trang,Gelofusine,Succinylated Gelatin (Modified fluid gelatin) + Sodium Chloride + Sodium hydroxide,"(20g + 3,505g + 0,68g)/500ml",Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 500ml
+595,Thùy Trang,Lipidem,"Medium-chain triglycerides + Soya-bean oil, refined + Omega-3-acid triglycerides","(10,0g + 8,0g + 2,0g)/100ml",Nh? t??ng tiêm truy?n,Tiêm truy?n,Chai 250ml
+596,Thùy Trang,Lipofundin MCT/LCT 10%,Medium-chain Triglycerides + Soya-bean Oil,"5,0g/100ml + 5,0g/100ml; 250ml",Nh? t??ng tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 250ml
+597,Thùy Trang,Lipofundin MCT/LCT 10%,Medium-chain Triglycerides + Soya-bean Oil,"5,0g/100ml + 5,0g/100ml; 500ml",Nh? t??ng tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+598,Thùy Trang,Lipofundin MCT/LCT 20%,Medium-chain Triglycerides + Soya-bean Oil,"10,0g/100ml + 10,0g/100ml; 100ml",Nh? t??ng tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 100ml
+599,Thùy Trang,Lipofundin MCT/LCT 20%,Medium-chain Triglycerides + Soya-bean Oil,"10,0g/100ml + 10,0g/100ml; 250ml",Nh? t??ng tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 250ml
+600,Thùy Trang,Nutriflex Lipid Peri,"Isoleucine + Leucine + Lysine (d??i d?ng Lysine HCl) + Methionine + Phenylalanine + Threonine + Tryptophan + Valine + Arginine + Histidine (d??i d?ng Histidine HCl monohydrate) + Alanine + Aspartic Acid + G lutamic Acid + Glycine + Proline + Serine + Sodium hydroxide + Sodium Chloride + Sodium acetate trihydrate + Potassium acetate + Magnesium acetate tetrahydrate + Calcium chloride dihydrate + Glucose (d??i d?ng Glucose monohydrate ) + Sodium dihydrogen phosphate dihydrate + Zinc acetate dihydrate + Soya- bean oil, refined + Medium- chain triglycerides","(2,34gam + 3,13gam + 2,26gam + 1,96gam + 3,51gam + 1,82gam + 0,57gam + 2,60gam + 2,7gam + 1,25gam + 4,85gam + 1,5gam + 3,50gam + 1,65gam + 3,40gam + 3,00gam + 0,80gam + 1,081gam + 0,544gam+ 2,943gam + 0,644gam + 0,441gam + 80,0gam + 1,170gam + 6,600mgam + 25,0gam + 25,0gam)/1250ml",Nh? t??ng tiêm truy?n,Tiêm truy?n,Túi 1250ml (túi chia 3 ng?n)
+601,Thùy Trang,Nutriflex peri,"Isoleucine + Leucine + Lysine hydrochloride (t??ng ???ng Lysine 2,27g) + Methionine + Phenylalanine + Threonine + Tryptophan + Valine + Arginine monoglutamate (t??ng ???ng Arginine 2,70g và Glutamic acid 2,28g) + Histidine hydrochloride monohydrate (t??ng ???ng Histidine 1,25g) + Alanine + Aspartic Acid + Glutamic Acid + Glycine + Proline + Serine + Magnesium acetate tetrahydrate + Sodium acetate trihydrate + Sodium chloride + Sodium hydroxide + Potassium hydroxide + Potassium Dihydrogen Phosphate + Glucose monohydrate (t??ng ???ng Glucose 80,0g) + Calcium Chloride Dihydrate","(2,34g + 3,13g + 2,84g + 1,96g + 3,51g + 1,82g + 0,57g + 2,6g + 4,98g + 1,69g + 4,85g + 1,5g+ 1,22g + 1,65g + 3,4g + 3g + 0,86g + 1,56g + 0,17g + 0,50g + 0,52g + 0,78g + 88g + 0,37g)/1000ml",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Túi 1000ml
+602,Thùy Trang,Paracetamol B.Braun 10mg/ml,Paracetamol,1000mg/100ml,Dung d?ch truy?n,Tiêm truy?n,Chai 100ml
+603,Thùy Trang,Propofol-Lipuro 0.5% (5mg/ml),Propofol,5mg/1ml,Nh? t??ng tiêm ho?c tiêm truy?n,Tiêm/Tiêm truy?n,?ng 20ml
+604,Thùy Trang,Propofol-Lipuro 1% (10mg/ml),Propofol,10mg/ml,Nh? t??ng tiêm ho?c truy?n t?nh m?ch,Tiêm/Tiêm truy?n,Chai 50ml
+605,Thùy Trang,Propofol-Lipuro 1% (10mg/ml),Propofol,10mg/ml,Nh? t??ng tiêm ho?c tiêm truy?n,Tiêm/Tiêm truy?n,?ng 20ml
+606,Thùy Trang,Ringerfundin,Sodium chloride + Potassium chloride + Calcium chloride dihydrate + Magnesium chloride hexahydrate + Sodium acetate trihydrate + L-Malic acid,(3.3995g + 0.1492g + 0.18375g + 0.10165g + 1.633g + 0.3355g)/500ml,Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 1000ml
+607,Thùy Trang,Ringerfundin,Sodium chloride + Potassium chloride + Calcium chloride dihydrate + Magnesium chloride hexahydrate + Sodium acetate trihydrate + L-Malic acid,(3.3995g + 0.1492g + 0.18375g + 0.10165g + 1.633g + 0.3355g)/500ml,Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 500ml
+608,Thùy Trang,Sterile Potassium Chloride Concentrate 14.9%,Potassium chloride,"1,49g/10ml",Dung d?ch ??m ??c ?? pha dung d?ch tiêm truy?n,Tiêm truy?n,?ng 10ml
+609,Thùy Trang,Tetraspan 6% solution for infusion,Poly (0-2 hydroxyethyl) starch (HES) + Natri clorid + Kali clorid + Calci clorid dihydrat + Magnesi clorid hexahydrat + Natri acetat trihydrat + Acid L-malic,"(15g + 1,5625g + 0,075g + 0,0925g + 0,05g + 0,8175g + 0,1675g)/250ml (6%)",Dung d?ch tiêm truy?n t?nh m?ch,Tiêm truy?n,Chai 500ml
+610,Thùy Trang,Tracutil,Iron (II) chloride tetrahydrate + Zinc chloride + Manganese (II) chloride tetrahydrate + Copper (II) chloride dihydrate + Chromium (III) chloride hexahydrate + Sodium selenite pentahydrate + Sodium molybdate dihydrate + Potassium iodide + Sodium fluoride,"(6,958mg + 6,815mg + 1,979mg + 2,046mg + 0,0530mg + 0,0789mg + 0,0242mg + 0,166mg + 1,260mg)/10ml",Dung d?ch ??m ??c ?? pha dung d?ch truy?n t?nh m?ch,Tiêm truy?n,?ng 10ml
+611,Thùy Trang,Acupan,Nefopam hydrochloride,20mg/2ml,Dung d?ch tiêm,Tiêm,?ng 2ml
+612,Thùy Trang,Bioflora 100mg,Saccharomyces boulardii CNCM I-745,100mg,B?t pha h?n d?ch u?ng,U?ng,Gói 100mg
+613,Thùy Trang,Bioflora 200mg,Saccharomyces boulardii CNCM I-745,200mg,Viên nang c?ng,U?ng,Viên
+614,Thùy Trang,Otipax,Phenazone + Lidocaine hydrochloride,4g/100g (4%) + 1g/100g (1%),Dung d?ch nh? tai,Nh? tai,L? 15ml
+615,Thùy Trang,Stimol,Citrulline Malate,1g/10ml,Dung d?ch u?ng,U?ng,Gói 10ml
+616,Thùy Trang,Stresam,Etifoxin hydrochlorid,50mg,Viên nang c?ng,U?ng,Viên
+617,Thùy Trang,Asumate 20,Levonorgestrel + Ethinylestradiol,"0,1mg + 0,02mg",Viên nén bao phim,U?ng,Viên
+618,Thùy Trang,Cerciorat,Levonorgestrel,"1,5mg",Viên nén,U?ng,Viên
+619,Thùy Trang,Daniele,Cyproteron acetate + Ethinylestradiol,"2mg + 0,035mg",Viên nén bao phim,U?ng,Viên
+620,Thùy Trang,Endovelle,Dienogest,2mg,Viên nén,U?ng,Viên
+621,Thùy Trang,Mercifort,Desogestrel + Ethinylestradiol,"0,15mg + 0,02mg",Viên nén,U?ng,Viên
+622,Thùy Trang,Miko-Penotran,Miconazol nitrate,1200mg,Viên ??t âm ??o,??t âm ??o,Viên
+623,Thùy Trang,Neo-Penotran,Metronidazol + Miconazol nitrat,500mg + 100mg,Viên ??t âm ??o,??t âm ??o,Viên
+624,Thùy Trang,Neo-Penotran Forte L,Metronidazole + Miconazole nitrate + Lidocain ( Lidocain base + Lidocain HCl),"750mg + 200mg + 100mg (43mg + 70,25mg)",Viên ??t âm ??o,??t âm ??o,Viên
+625,Thùy Trang,Rosepire,Drospirenone + Ethinyl estradiol micronized,"3mg + 0,02mg",Viên nén bao phim,U?ng,Viên
+626,Thùy Trang,Rosepire,Drospirenone + Ethinylestradiol,"3mg + 0,03mg",Viên nén bao phim,U?ng,Viên
+627,Thùy Trang,Cortiment,Budesonide,9mg,Viên nén phóng thích kéo dài,U?ng,Viên
+628,Thùy Trang,Duratocin,Carbetocin,100mcg/1ml,Dung d?ch tiêm t?nh m?ch,Tiêm t?nh m?ch,L? 1ml
+629,Thùy Trang,Fertipeptil,Triptorelin acetat,"0,1mg/ml (t??ng ???ng Triptorelin d?ng base t? do 0,0956mg/ml)",Dung d?ch tiêm d??i da,Tiêm d??i da,?ng 1ml
+630,Thùy Trang,Firmagon,Degarelix (d??i d?ng degarelix acetate),120mg,B?t ?ông khô và dung môi pha dung d?ch tiêm,Tiêm,"B? g?m l? b?t (120mg) + b?m tiêm ?óng s?n 4,2ml dung môi + pít-tông + b? ph?n ti?p n?i l? b?t + kim tiêm"
+631,Thùy Trang,Firmagon,Degarelix (d??i d?ng degarelix acetate),80mg,B?t và dung môi pha tiêm,Tiêm,"B? g?m l? b?t (80mg) + b?m tiêm ?óng s?n 4,2ml dung môi + pít-tông + b? ph?n ti?p n?i l? b?t + kim tiêm"
+632,Thùy Trang,Glypressin,Terlipressin acetate,"1mg (t??ng ???ng Terlipressin 0,86mg)",B?t ?ông khô và dung môi pha dung d?ch tiêm,Tiêm t?nh m?ch,L? b?t ?ông khô + ?ng dung môi 5ml
+633,Thùy Trang,Menogon,Menotrophin,75IU FSH + 75IU LH,B?t pha tiêm,"Tiêm b?p, Tiêm d??i da",L? b?t + ?ng dung môi 1ml
+634,Thùy Trang,Menopur,"Menotrophin tinh khi?t cao (gonadotrophin t? n??c ti?u ph? n? mãn kinh, HMG) t??ng ?ng v?i 75IU FSH và 75IU LH",75IU FSH + 75IU LH,B?t pha tiêm,Tiêm,L? b?t + ?ng dung môi 1ml
+635,Thùy Trang,Menopur multidose 1200IU,"Menotrophin (gonadotrophin t? n??c ti?u ph? n? mãn kinh, HP hMG) tinh khi?t cao",1200IU/2ml,B?t và dung môi pha dung d?ch tiêm,Tiêm d??i da,"L? b?t, 2 b?m tiêm ?óng s?n dung môi ?? pha tiêm, 1 kim ?? pha, 18 b?m tiêm dùng m?t l?n có v?ch chia các ??n v? FSH/LH có s?n kim tiêm"
+636,Thùy Trang,Menopur multidose 600IU,"Menotrophin (gonadotrophin t? n??c ti?u ph? n? mãn kinh, HP hMG) tinh khi?t cao 600IU/l?, n?ng ?? dung d?ch sau hoàn nguyên: 600IU/ml",600IU/ml,B?t và dung môi pha dung d?ch tiêm,Tiêm d??i da,"L? b?t, 1 b?m tiêm ?óng s?n dung môi ?? pha tiêm, 1 kim ?? pha, 9 b?m tiêm dùng m?t l?n có v?ch chia các ??n v? FSH/LH có s?n kim tiêm"
+637,Thùy Trang,Minirin Melt Oral Lyophilisate 60mcg,Desmopressin (d??i d?ng desmopressin acetate),60mcg (67mcg),Viên ?ông khô ???ng u?ng,U?ng,Viên
+638,Thùy Trang,Minirin,Desmopressin (d??i d?ng Desmopressin acetat),"0,089mg (0,1mg)",Viên nén,U?ng,Viên
+639,Thùy Trang,"Nocdurna (C? s? ?óng gói th? c?p: Ferring International Center SA, ?/c: Chemin de la Vergognausaz, St-Prex, 1162, Switzerland; C? s? xu?t x??ng: Ferring GmbH, ?/c: Wittland 11, Kiel, D-24109, Germany)",Desmopressin (d??i d?ng desmopressin acetat),25mcg,Viên ?ông khô ??t d??i l??i,??t d??i l??i,Viên
+640,Thùy Trang,Pentasa 1g,Mesalazine,1g/100ml,H?n d?ch th?t tr?c tràng,Th?t tr?c tràng,L? 1g/100ml + bao nh?a
+641,Thùy Trang,Pentasa Sachet 1g,Mesalazine,1000mg,C?m phóng thích kéo dài,u?ng,"Gói 1,06g"
+642,Thùy Trang,Pentasa Sachet 2g,Mesalazine,2000mg,C?m phóng thích kéo dài,U?ng,"Gói 2,12g"
+643,Thùy Trang,Pentasa,Mesalazine,1000mg,Thu?c ??t,??t tr?c tràng,Viên
+644,Thùy Trang,"Pentasa (C? s? ?óng gói, xu?t x??ng: Ferring International Center S.A. ??a ch?: Chemin de la Vergognausaz CH-1162 St. prex, Switzerland)",Mesalazine,1g,Viên ??t tr?c tràng,??t tr?c tràng,Viên
+645,Thùy Trang,Pentasa 1g,Mesalazine,1g,Viên nén phóng thích kéo dài,U?ng,Viên
+646,Thùy Trang,Pentasa,Mesalazine,500mg,Viên nén phóng thích ch?m,U?ng,Viên
+647,Thùy Trang,Picoprep,"Natri picosulfate + Magnesi oxide, light + Acid Citric khan.","10mg + 3,5g + 12g",B?t pha dung d?ch u?ng,U?ng,"Gói b?t pha dung d?ch u?ng 16,1g"
+648,Thùy Trang,Propess,Dinoprostone,10mg,H? phân ph?i thu?c ??t âm ??o,??t âm ??o,Túi x h? phân ph?i thu?c ??t âm ??o
+649,Thùy Trang,Rekovelle,Follitropin delta,"12mcg/0,36ml",Dung d?ch tiêm,Tiêm d??i da,01 bút tiêm ?óng s?n dung d?ch tiêm và 03 kim tiêm
+650,Thùy Trang,Rekovelle,Follitropin delta,"36mcg/1,08ml",Dung d?ch tiêm,Tiêm d??i da,01 bút tiêm ?óng s?n dung d?ch tiêm và 06 kim tiêm
+651,Thùy Trang,Rekovelle,Follitropin delta,"72mcg/2,16ml",Dung d?ch tiêm,Tiêm d??i da,01 bút tiêm ?óng s?n dung d?ch tiêm và 09 kim tiêm
+652,Thùy Trang,Tractocile,Atosiban (d??i d?ng Atosiban acetate),"7,5mg/ml",Dung d?ch ??m ??c pha truy?n t?nh m?ch,Tiêm truy?n,L? 5ml
+653,Thùy Trang,Zomacton 4mg,Somatropin,4mg,B?t ?ông khô pha dung d?ch tiêm,Tiêm,"L? b?t ?ông khô (4mg) + ?ng dung môi 3,5ml"
+654,Thùy Trang,Differin Cream 0.1%,Adapalene,"0,1%",Kem,Dùng ngoài,Tuýp 30g
+655,Thùy Trang,Epiduo 0.1%/2.5% gel,Adapalen + Benzoyl peroxide,"0,1% + 2,5%",Gel bôi da,Dùng ngoài,L? 15g
+656,Thùy Trang,Albutein 20%,Human Albumin,"19,0 – 21,0g trong 100ml",Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 100ml
+657,Thùy Trang,Albutein 20%,Human Albumin,"9,5– 10,5g trong 50ml",Dung d?ch tiêm truy?n,Tiêm truy?n,Chai 50ml
+658,Thùy Trang,Albutein 25%,Human Albumin,"0,25g/ml (25%)",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 100ml
+659,Thùy Trang,Albutein 25%,Human Albumin,"0,25g/ml (25%)",Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,Chai 50ml
+660,Thùy Trang,Albutein 5%,Human Albumin,"12,5g/250ml",Dung d?ch tiêm truy?n,Tiêm truy?n,Chài 250ml
+661,Thùy Trang,Flebogamma 5% DIF,Human normal immunoglobulin,5%; 50ml,Dung d?ch tiêm truy?n 50mg/ml,Tiêm truy?n,L? 50ml
+662,Thùy Trang,Flebogamma 5% DIF,Human normal immunoglobulin,5%; 100ml,Dung d?ch tiêm truy?n 50mg/ml,Tiêm truy?n,L? 100ml
+663,Thùy Trang,Human Albumin Grifols 20%,Human albumin,20%; 200g/l (10g/50ml),Dung d?ch truy?n t?nh m?ch,Tiêm truy?n,L? 50ml
+664,Thùy Trang,"Diphereline P.R 3,75mg",Triptorelin (d??i d?ng Triptorelin acetate),"3,75mg","B?t và dung môi pha h?n d?ch tiêm (IM), d?ng phóng thích kéo dài 28 ngày",Tiêm,1 l? b?t + 1 ?ng dung môi 2ml + 1 b?m tiêm + 2 kim tiêm
+665,Thùy Trang,Diphereline P.R. 11.25mg,Triptorelin (d??i d?ng Triptorelin pamoate),"11,25mg","B?t và dung môi pha thành d?ch treo ?? tiêm b?p hay tiêm d??i da, d?ng phóng thích kéo dài 3 tháng",Tiêm,1 l? thu?c b?t + 1 ?ng dung môi pha tiêm 2 ml + 1 b?m tiêm + 3 kim tiêm
+666,Thùy Trang,Dysport,Clostridium botulinum type A toxin-haemagglutinin complex,300U,B?t pha dung d?ch tiêm,Tiêm,L?
+667,Thùy Trang,Dysport,Clostridium botulinum type A toxin-haemagglutinin complex,500U,B?t pha dung d?ch tiêm,Tiêm,L?
+668,Thùy Trang,Eprex 10000 U,Epoetin alfa,10000 IU/1ml,Dung d?ch tiêm,Tiêm,6 ?ng tiêm ch?a s?n 1ml thu?c kèm kim tiêm
+669,Thùy Trang,Eprex 2000 U,Epoetin alfa,"2000 IU/0,5ml",Dung d?ch tiêm,Tiêm,"6 ?ng tiêm ch?a s?n 0,5ml thu?c kèm kim tiêm"
+670,Thùy Trang,Eprex 4000 U,Epoetin alfa,"4000 IU/0,4ml",Dung d?ch tiêm,Tiêm,"6 ?ng tiêm ch?a s?n 0,4ml thu?c kèm kim tiêm"
+671,Thùy Trang,Fugacar,Mebendazole,500mg,Viên nén,U?ng,Viên
+672,Thùy Trang,"Fugacar (Chewable tablet, chocolate)",Mebendazole,500mg,Viên nén nhai,U?ng,Viên
+673,Thùy Trang,Fugacar (tablet),Mebendazole,500mg,Viên nén,U?ng,Viên
+674,Thùy Trang,Fugacar (chewable tablet),Mebendazole,500mg,Viên nén nhai,U?ng,Viên
+675,Thùy Trang,Motilium,Domperidone,1mg/ml,H?n d?ch,U?ng,Chai 100ml
+676,Thùy Trang,Motilium,Domperidone,1mg/ml,H?n d?ch,U?ng,L? 30ml
+677,Thùy Trang,Motilium,Domperidone,1mg/ml,H?n d?ch,U?ng,L? 60ml
+678,Thùy Trang,Nizoral cream,Ketoconazol,20mg/g,Kem bôi da,Bôi,Tuýp 10g kem
+679,Thùy Trang,Nizoral,Ketoconazole,20mg/g (t??ng ???ng 2%),Kem,Bôi,Tuýp 15g
+680,Thùy Trang,Nizoral cream,Ketoconazol,20mg/g,Kem bôi da,Bôi,Tuýp 5g kem
+681,Thùy Trang,Reminyl 8mg,Galantamin (d??i d?ng Galantamin HBr),8mg,Viên nang c?ng gi?i phóng kéo dài,U?ng,Viên
+682,Thùy Trang,Sporal,Itraconazole,100mg,Viên nang c?ng,U?ng,Viên
+683,Thùy Trang,Stugeron,Cinnarizine,25mg,Viên nén,U?ng,Viên
+684,Thùy Trang,Topamax,Topiramat,25mg,Viên nén bao phim,U?ng,Viên
+685,Thùy Trang,Topamax,Topiramat,50mg,Viên nén bao phim,U?ng,Viên
+686,Thùy Trang,Ultracet,Tramadol hydrochloride + Paracetamol,"37,5mg + 325mg",Viên nén bao phim,U?ng,Viên
+687,Thùy Trang,Concor AM 5mg/10mg,Bisoprolol fumatate + Amlodipine (d??i d?ng amlodipine besilate),"5mg + 10mg (13,9mg)",Viên nén,U?ng,Viên
+688,Thùy Trang,Concor AM 5mg/5mg,Bisoprolol fumarate + Amlodipine (d??i d?ng amlodipine besilate),"5mg + 5mg (6,95mg)",Viên nén,U?ng,Viên
+689,Thùy Trang,Concor Cor,Bisoprolol fumarate,"2,5mg",Viên nén bao phim,U?ng,Viên
+690,Thùy Trang,Concor 5mg,Bisoprolol fumarate,5mg,Viên nén bao phim,U?ng,Viên
+691,Thùy Trang,Glucophage,Metformin hydrochlorid,1000mg,Viên nén bao phim b? ???c,U?ng,Viên
+692,Thùy Trang,Glucophage 500mg,Metformin hydrochlorid,500mg,Viên nén bao phim,U?ng,Viên
+693,Thùy Trang,Glucophage 850mg,Metformin hydrochlorid,850mg,Viên nén bao phim,U?ng,Viên
+694,Thùy Trang,Glucophage XR 1000mg,Metformin hydrochlorid,1000mg,Viên nén phóng thích kéo dài,U?ng,Viên
+695,Thùy Trang,Glucophage XR 500 mg,Metformin hydrochlorid,500mg,Viên nén phóng thích kéo dài,U?ng,Viên
+696,Thùy Trang,Glucophage XR 750mg,Metformin hydrochlorid,750mg,Viên nén phóng thích kéo dài,U?ng,Viên
+697,Thùy Trang,"Glucovance 500mg/2,5mg",Metformin hydrochloride + Glibenclamide,"500mg (t??ng ???ng v?i metformin 390mg) + 2,5mg",Viên nén bao phim,U?ng,Viên
+698,Thùy Trang,Glucovance 500mg/5mg,Metformin hydrochloride + Glibenclamide,500mg (t??ng ???ng v?i metformin 390mg) + 5mg,Viên nén bao phim,U?ng,Viên
+699,Thùy Trang,Levothyrox,Levothyroxine natri,100mcg,Viên nén,U?ng,Viên
+700,Thùy Trang,Levothyrox,Levothyroxine sodium,25mcg,Viên nén,U?ng,Viên
+701,Thùy Trang,Levothyrox,Levothyroxine sodium,50mcg,Viên nén,U?ng,Viên
+702,Thùy Trang,Levothyrox,Levothyroxine natri,75mcg,Viên nén,U?ng,Viên
+703,Thùy Trang,Thyrozol 10mg,Thiamazole,10mg,Viên nén bao phim,U?ng,Viên
+704,Thùy Trang,Thyrozol 5mg,Thiamazole,5mg,Viên nén bao phim,U?ng,Viên
+705,Thùy Trang,Thyrozol 5 mg,Thiamazole,5mg,Viên nén bao phim,U?ng,Viên
+706,Thùy Trang,"NovoFine 31G (0,25 x 6mm)",Kim tiêm,,,Tiêm,
+707,Thùy Trang,NovoFine 32G 4mm,Kim tiêm,,,Tiêm,
+708,Thùy Trang,Actrapid,Insulin Human,100IU/1ml,Dung d?ch tiêm,Tiêm,L? 10ml
+709,Thùy Trang,Insulatard,Insulin Human (rDNA),1000IU/10ml,H?n d?ch tiêm,Tiêm,L? 10ml
+710,Thùy Trang,Insulatard FlexPen,Insulin human (rDNA),300IU/3ml,H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n 3ml
+711,Thùy Trang,Levemir FlexPen,Insulin detemir (rDNA),300U/3ml,Dung d?ch tiêm,Tiêm,Bút tiêm b?m s?n 3ml
+712,Thùy Trang,Mixtard 30,Insulin Human (rDNA) (isophane insulin crystals) + Insulin Human (rDNA) (soluble fraction),(700IU + 300IU)/10ml,H?n d?ch tiêm,Tiêm,L? 10ml
+713,Thùy Trang,Mixtard 30 FlexPen,Insulin Human (rDNA) (isophane insulin crystals) 210IU; Insulin Human (rDNA) (soluble fraction) 90IU,(210IU + 90IU)/3ml,H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c 3ml
+714,Thùy Trang,NovoMix 30 FlexPen,"Insulin aspart biphasic (rDNA) 1ml h?n d?ch ch?a 100U c?a insulin aspart hòa tan/insulin aspart k?t tinh v?i protamine theo t? l? 30/70 (t??ng ???ng 3,5 mg)","100U/1ml (30/70 (t??ng ???ng 3,5 mg))",H?n d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c 3ml
+715,Thùy Trang,Novorapid FlexPen,Insulin aspart (rDNA),300U/3ml,Dung d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c 3ml
+716,Thùy Trang,Ryzodeg Flextouch 100U/ml,Insulin degludec + Insulin aspart,"(7,68mg + 3,15mg)/3ml",Dung d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c 3ml
+717,Thùy Trang,Tresiba Flextouch 100U/ml,Insulin degludec,"10,98mg/3ml",Dung d?ch tiêm,Tiêm,Bút tiêm b?m s?n thu?c 3ml
+718,Thùy Trang,Glucagen® Hypokit®,Glucagon d??i d?ng hydrochloride,"1mg (1 ??n v? qu?c t?, IU)",B?t và dung môi ?? pha dung d?ch tiêm,Tiêm,1 l? b?t ch?a 1 mg glucagon và 1 ml n??c pha tiêm ch?a trong xi lanh
+719,Thùy Trang,Norditropin Nordiflex 5mg/1.5ml,Somatropin,"3,3mg/ml",Dung d?ch tiêm,Tiêm,"Bút tiêm b?m s?n1,5ml"
+720,Thùy Trang,NovoSeven RT 1mg,Y?u t? ?ông máu VIIa tái t? h?p (rFVIIa-Eptacog alfa ho?t hóa),1mg,B?t pha tiêm,Tiêm,"L? b?t + b?m tiêm: 01 pít tông, 01 thi?t b? ti?p n?i v?i l?"
+721,Thùy Trang,Saxenda 6mg/ml,Liraglutide,18mg/3ml,Dung d?ch tiêm,Tiêm,Bút tiêm b?m s?n 3ml
+722,Thùy Trang,Victoza,Liraglutide,18mg/3ml,Dung d?ch tiêm,Tiêm,Bút tiêm b?m s?n 3ml
+723,Thùy Trang,Navelbine,Vinorelbine (d??i d?ng Vinorelbine ditartrate),10mg/1ml,Dung d?ch ??m ??c ?? pha dung d?ch tiêm truy?n,Tiêm truy?n,L? 1ml
+724,Thùy Trang,Navelbine 20mg,Vinorelbine (d??i d?ng vinorelbine ditartrate),20mg,Viên nang m?m,U?ng,Viên
+725,Thùy Trang,Navelbine 30mg,Vinorelbine (d??i d?ng vinorelbine ditartrate),30mg,Viên nang m?m,U?ng,Viên
+726,Thùy Trang,Permixon 160mg,Ph?n chi?t lipid-sterol c?a cây Serenoa repens,160mg,Viên nang c?ng,U?ng,Viên
+727,Thùy Trang,Tanganil 500mg,Acetylleucine,500mg,Viên nén,U?ng,Viên
+728,Thùy Trang,Tanganil 500mg/5ml,Acetylleucine,500mg/5ml,Dung dich tiêm t?nh m?ch,Tiêm,?ng 5ml
+729,Thùy Trang,Tardyferon B9,Acid folic (d?ng khan) + S?t (d??i d?ng s?t (II) sulfat ???c làm khô),"0,35mg + 50mg (154,53mg)",Viên nén gi?i phóng kéo dài,U?ng,Viên
+730,Thùy Trang,Sante Lutax 15 + Vitamin & Mineral,H?n d?ch Flora GLO Lutein 20% SAF + B?t siêu m?n acid L-ascorbic + E-MIX-? 1350 + N?m men bia ch?a 10% k?m + N?m men bia ch?a 5% ??ng + D?u Safflower salad + Poem S-100 (glyceryl stearat) + Sáp ong ph? gia th?c ph?m,"Lutein 5mg + Vitamin C 96mg + Vitamin E 50mg + K?m 3mg + ??ng 0,4mg/viên nang m?m",Viên nang m?m,U?ng,Viên
+731,Thùy Trang,Sante Lutax 20,H?n d?ch Flora GLO Lutein 20% SAF + B?t siêu m?n acid L-ascorbic + E-MIX-? 1350 + N?m men bia ch?a 10% k?m + N?m men bia ch?a 5% ??ng + D?u Safflower salad + Poem S-100 (glyceryl stearat) + Sáp ong ph? gia th?c ph?m,20mg,Viên nang m?m,U?ng,Viên
+732,Thùy Trang,Cationorm,D?u khoáng (mineral oils) + glycerol + tyloxapol + poloxamer + tris hydroclorid + tromethamin + cetalkonium clorid + n??c pha tiêm v?a ?? 1 ?ng,"1% + 1,6% + 0,3% + 188 0,1% + 0,071% + 0,006% + 0,002% + 0,4ml",Nh? t??ng nh? m?t,Nh? m?t,"?ng 0,4 ml"
+733,Thùy Trang,Hydrelo Dual Action,Ectoin + Natri Hyaluronat + Natri clorid + n??c + ??m citrat,0.5% + 0.2%,Dung d?ch nh? m?t,Nh? m?t,L? 10 ml
+734,Thùy Trang,Alegysal,Pemirolast Kali,5mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+735,Thùy Trang,Cosopt,Dorzolamid (d??i d?ng dorzolamid hydroclorid) + Timolol (d??i d?ng timolol maleat),100mg/5ml + 25mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+736,Thùy Trang,Cosopt-S,Dorzolamid (d??i d?ng Dorzolamid hydroclorid) + Timolol (d??i d?ng Timolol maleat),"4mg/0,2ml + 1mg/0,2ml",Dung d?ch nh? m?t,Nh? m?t,"L? 0,2ml"
+737,Thùy Trang,Cravit 1.5%,Levofloxacin hydrat,75mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+738,Thùy Trang,Cravit,Levofloxacin hydrat,25mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+739,Thùy Trang,Daigaku,Naphazolin hydroclorid + clorpheniramin maleat + k?m sulfat hydrat + acid ép-si-lon aminocaproic,"0,3mg + 1,5mg + 15mg + 150mg",Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+740,Thùy Trang,Diquas,Natri diquafosol,150mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+741,Thùy Trang,"Flumetholon 0,02",Fluorometholon,1mg/5ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+742,Thùy Trang,"Flumetholon 0,1",Fluorometholon,5mg/5ml,H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+743,Thùy Trang,Ikervis,Ciclosporin,"0,3mg/0,3ml",Nh? t??ng nh? m?t,Nh? m?t,"L? ??n li?u 0,3ml"
+744,Thùy Trang,Kary Uni,Pirenoxin,"0,25mg/5ml",H?n d?ch nh? m?t,Nh? m?t,L? 5ml
+745,Thùy Trang,Mydrin-P,Tropicamid + Phenylephrin hydroclorid,50mg/10ml + 50mg/10ml,Dung d?ch nh? m?t,Nh? m?t,L? 10 ml
+746,Thùy Trang,Oflovid,Ofloxacin,15mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+747,Thùy Trang,Oflovid ophthalmic ointment,Ofloxacin,"0,3%",Thu?c m? tra m?t,Tra m?t,"Tuýp 3,5g"
+748,Thùy Trang,Sancoba,Cyanocobalamin (Vitamin B12),1mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+749,Thùy Trang,"Sanlein 0,1",Natri hyaluronat tinh khi?t,5mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+750,Thùy Trang,Sanlein 0.3,Natri hyaluronat tinh khi?t,15mg/5ml,Dung d?ch nh? m?t,Nh? m?t,L? 5ml
+751,Thùy Trang,Sanlein Mini 0.1,Natri hyaluronat tinh khi?t,"0,4mg/0,4ml",Dung d?ch nh? m?t,Nh? m?t,"Túi x 3 v? x 10 L? x 0,4ml"
+752,Thùy Trang,Sanlein Mini 0.3,Natri hyaluronat tinh khi?t,"1,2mg/0,4ml",Dung d?ch nh? m?t,Nh? m?t,"Túi x 3 v? x 10 L? x 0,4ml"
+753,Thùy Trang,Taflotan,Tafluprost,"0,0375mg/2,5ml",Dung d?ch nh? m?t,Nh? m?t,"L? 2,5ml"
+754,Thùy Trang,Taflotan-S,Tafluprost,"4,5µg/0,3ml",Dung d?ch nh? m?t,Nh? m?t,"L? 0,3ml"
+755,Thùy Trang,Taptiqom,Tafluprost + Timolol (d??i d?ng Timolol maleat),"0,015mg/ml + 5mg/ml",Dung d?ch nh? m?t,Nh? m?t,"?ng 0,3ml"
+756,Thùy Trang,Taptiqom-MD,Tafluprost + Timolol (d??i d?ng Timolol maleat),"0,015mg/ml + 5mg/ml",Dung d?ch nh? m?t,Nh? m?t,"L? 2,5ml"
+757,Thùy Trang,Artrodar,Diacerein,50mg,Viên nang,U?ng,Viên
+758,Thùy Trang,Vismed,Natri Hyaluronate,"0,18%",Dung d?ch nh? m?t,Nh? m?t,"?ng ??n li?u 0,3ml"
+759,Thùy Trang,Enervon plus Effervescent,"Vitamin C + Calcium + Magnesi + Vitamin B1 + Vitamin B2, Vitamin B3 + Acid Pantothenic + Vitamin B6 + Vitamic B12 + Zinc + Acid folic + Biotin","500mg +100mg + 100mg + 15mg + 15mg + 50mg + 25mg + 10mg + B12 0,01mg + 10mg + 0,4mg + 0,15mg",Viên s?i,U?ng,Viên
+760,Thùy Trang,OBIMIN CALCIUM,Calcium (d??i d?ng calcium carbonate) + Fructo oligosaccharide + Magnesium + Vitamin D3,600mg + 100ng + 50mg + 200IU,Viên nén bao phim,U?ng,Viên
+761,Thùy Trang,OBIMIN PLUS,Omega 3 + Docosahexanoic Acid (DHA) + Eicosapentanoic Acid (EPA) + Vitamin C + Calcium (d?ng Calcium Carbonate) + Vitamin E + S?t (d?ng Ferrous Sulfate) + Nicotinamide + K?m (d?ng k?m sulfate) + Calcium Pantothenate + Magnesium (d?ng Magnesium sulfate) + Vitamin B6 + Vitamin B1 + Vitamin B2 + Manganese (d?ng Manganese sulfate) + ??ng (d?ng Cupric sulfate) + Acid folid + Vitamin A + I?t + Biotin + Vitamin D + Vitamin B12,"135mg + 105mg + 20mg + 100mg + 40mg + 30IU (?30mg) + 30mg + 20mg + 15mg + 8mg + 5mg + 3mg + 2mg + 2mg + 1mg + 1mg + 1mg + 3.000IUP (?0,9mg) + 0,15mg + 0,035mg + 200IU (?0,006mg) + 0,003mg",Viên nang m?m,U?ng,Viên
+762,Thùy Trang,Alaxan,Ibuprofen + Paracetamol (Acetaminophen),200mg + 325mg,Viên nén,U?ng,Viên
+763,Thùy Trang,Alaxan,Ibuprofen + Paracetamol (Acetaminophen),200mg + 325mg,Viên nén,U?ng,Viên
+764,Thùy Trang,Ambroco,Ambroxol HCl,15mg/5ml,Sirô,U?ng,Chai 30ml
+765,Thùy Trang,Ambroco,Ambroxol HCl,15mg/5ml,Sirô,U?ng,Chai 60ml
+766,Thùy Trang,Aspilets EC,Acid Acetylsalicylic,80mg,Viên nén bao phim tan trong ru?t,U?ng,Viên
+767,Thùy Trang,Atussin,Dextromethorphan.HBr + Clorpheniramin maleat + Trisodium citrat dihydrat + Ammonium chlorid + Glyceryl Guaiacolat,"5mg + 1,33mg + 133mg + 50mg + 50mg",Sirô,U?ng,Chai 60ml
+768,Thùy Trang,Atussin,Ammonium Chloride + Chlorpheniramine Maleate + Dextromethorphan HBr + Glyceryl guaiacolate (Guaifenesin) + Sodium citrate (Trisodium Citrate Dihydrate),50mg + 1mg + 10mg + 50mg + 133mg,Viên nén,U?ng,Viên
+769,Thùy Trang,Bisoloc,Bisoprolol Fumarate,"2,5mg",Viên nén bao phim,U?ng,Viên
+770,Thùy Trang,Bisoloc,Bisoprolol Fumarate,5mg,Viên nén bao phim,U?ng,Viên
+771,Thùy Trang,Ceelin+Z,K?m (d??i d?ng K?m sulfat) + Vitamin C,(10mg + 100mg)/5ml,Sirô,U?ng,Chai 60ml
+772,Thùy Trang,Ceelin,Vitamin C,100mg/5ml,Sirô,U?ng,Chai 120ml
+773,Thùy Trang,Ceelin,Vitamin C,100mg/5ml,Sirô,U?ng,Chai 30ml
+774,Thùy Trang,Ceelin,Vitamin C,100mg/5ml,Sirô,U?ng,Chai 60ml
+775,Thùy Trang,Clazic MR,Gliclazide,60mg,Viên nén phóng thích kéo dài,U?ng,Viên
+776,Thùy Trang,Clazic SR,Gliclazide,30mg,Viên nén phóng thích kéo dài,U?ng,Viên
+777,Thùy Trang,Clazic SR,Gliclazide,30mg,Viên nén phóng thích kéo dài,U?ng,Viên
+778,Thùy Trang,Combizar,Hydrochlorothiazide + Losartan potassium,25mg + 100mg,Viên bao phim,U?ng,Viên
+779,Thùy Trang,Combizar,Losartan potassium + Hydrochlorothiazide,"50mg + 12,5mg",Viên bao phim,U?ng,Viên
+780,Thùy Trang,Decolgen Forte,Paracetamol + Phenylephrine HCl + Chlorpheniramine maleate,500mg + 10mg + 2mg,Viên nén,U?ng,Viên
+781,Thùy Trang,Decolgen Forte,Paracetamol + Phenylephrine HCl + Chlorpheniramine maleate,500mg + 10mg + 2mg,Viên nén,U?ng,Viên
+782,Thùy Trang,Decolgen ND,Paracetamol + Phenylephrin HCl,500mg + 10mg,Viên nén,U?ng,Viên
+783,Thùy Trang,Decolgen ND,Paracetamol + Phenylephrin HCl,500mg + 10mg,Viên nén,U?ng,Viên
+784,Thùy Trang,Decolgen ND,Paracetamol + Phenylephrin HCl,500mg + 10mg,Viên nén,U?ng,Viên
+785,Thùy Trang,Decolgen,Paracetamol + Phenylephrine HCl + Chlorpheniramine maleate,"(100mg + 2,5mg + 0,33mg)5ml",Sirô,U?ng,Chai 60ml
+786,Thùy Trang,Dolfenal,Acid Mefenamic,500mg,Viên bao phim,U?ng,Viên
+787,Thùy Trang,Enervon,Vitamin B1 + Vitamin B12 + Vitamin B2 + Vitamin B3 (Niacinamide) + Vitamin B5 (Calcium Pantothenate) 2+ Vitamin B6 + Vitamin C,50mg + 5?g (mcg) + 20mg + 50mg + 20mg + 5mg + 500mg,Viên bao phim,U?ng,Viên
+788,Thùy Trang,Fenoflex,Fenofibrate micronized,160mg,Viên nén bao phim,U?ng,Viên
+789,Thùy Trang,Fordia,Metformin hydroclorid,850mg,Viên nén,U?ng,Viên
+790,Thùy Trang,Fordia MR,Metformin Hydrochloride,500mg,Viên nén bao phim phóng thích có ki?m soát,U?ng,Viên
+791,Thùy Trang,Fordia MR,Metformin HCl,750mg,Viên nén bao phim phóng thích có ki?m soát,U?ng,Viên
+792,Thùy Trang,Hydrite,Dextrose Anhydrous + Potassium Chloride + Sodium Chloride + Trisodium Citrate Dihydrate,2700mg + 300mg + 520mg + 580mg,B?t pha dung d?ch u?ng,U?ng,Gói
+793,Thùy Trang,Hydrite,Dextrose anhydrous + Potassium chloride + Sodium bicarbonate + Sodium chloride,2000mg + 150mg + 250mg + 350mg,Viên nén,U?ng,Viên
+794,Thùy Trang,Hyvalor,Valsartan,160mg,Viên nén bao phim,U?ng,Viên
+795,Thùy Trang,Hyvalor,Valsartan,80mg,Viên nén bao phim,U?ng,Viên
+796,Thùy Trang,Hyvalor plus,Valsartan + Amlodipine (d??i d?ng Amlodipine besilate),160mg + 10mg,Viên nén bao phim,U?ng,Viên
+797,Thùy Trang,Hyvalor plus,Valsartan + Amlodipine (d??i d?ng Amlodipine besilate),80mg + 5mg,Viên nén bao phim,U?ng,Viên
+798,Thùy Trang,Kremil Gel,Aluminum Hydroxide (d??i d?ng Aluminum Hydroxide gel) + Magnesium Hydroxide (d??i d?ng Magnesium Hydroxide paste) + Simethicone (d??i d?ng Simethicone emulsion),"(20%: 1780mg) 356mg + (30%: 1553,33mg) 466mg + (30%: 83,33mg) 20mg",Gel u?ng,U?ng,Gói 20ml
+799,Thùy Trang,Kremil Gel,Aluminum Hydroxide (d??i d?ng Aluminum Hydroxide gel) + Magnesium Hydroxide (d??i d?ng Magnesium Hydroxide paste) + Simethicone (d??i d?ng Simethicone emulsion),"(20%: 1780mg) 356mg + (30%: 1553,33mg) 466mg + (30%: 83,33mg) 20mg",Gel u?ng,U?ng,Gói 20ml
+800,Thùy Trang,Kremil-S,Aluminum Hydroxide + Magnesium Hydroxide + Simethicone,178mg + 233mg + 30mg,Viên nén nhai,U?ng,Viên
+801,Thùy Trang,Lifezar,Losartan potassium,100mg,Viên nén bao phim,U?ng,Viên
+802,Thùy Trang,Lifezar,Losartan potassium,50mg,Viên nén bao phim,U?ng,Viên
+803,Thùy Trang,Neo-Pyrazon,Diclofenac natri,50mg,Viên nén bao phim tan trong ru?t,U?ng,Viên
+804,Thùy Trang,New diatabs,Attapulgite ho?t hóa,600mg,Viên nén,U?ng,Viên
+805,Thùy Trang,Obimin,Calcium pantothenate + Calicum lactate pentahydrate + ??ng (d??i d?ng ??ng sulfat) + Ferrous fumarate + Folic acid + Iod (d??i d?ng Kali iodid) + Niacinamide + Vitamin A + Vitamin B1 + Vitamin B12 + Vitamin B2 + Vitamin B6 + Vitamin C + Vitamin D,"7,5mg + 250mg + 100?g (mcg) + 90mg + 1mg + 100?g (mcg) + 20mg + 3000 USP unit + 10mg + 4?g (mcg) + 2,5mg + 15mg + 100mg + 400 USP unit",Viên bao phim,U?ng,Viên
+806,Thùy Trang,Obimin,Calcium pantothenate + Calicum lactate pentahydrate + ??ng (d??i d?ng ??ng sulfat) + Ferrous fumarate + Folic acid + Iod (d??i d?ng Kali iodid) + Niacinamide + Vitamin A + Vitamin B1 + Vitamin B12 + Vitamin B2 + Vitamin B6 + Vitamin C + Vitamin D,"7,5mg + 250mg + 100?g (mcg) + 90mg + 1mg + 100?g (mcg) + 20mg + 3000 USP unit + 10mg + 4?g (mcg) + 2,5mg + 15mg + 100mg + 400 USP unit",Viên bao phim,U?ng,Viên
+807,Thùy Trang,Odiron,"Cyanocobalamin (vitamin B12) (d??i d?ng Vitamin B12 0,1% nghi?n v?i Manitol) + Folic acid + Pyridoxine HCl (vitamin B6) (d??i d?ng Pyridoxine HCl DC B6-97) + S?t (d??i d?ng S?t II sulfate khan)",25?g (mcg) + 600?g (mcg) + 20mg + 60mg,Viên nén bao phim,U?ng,Viên
+808,Thùy Trang,Perosu - 10Mg,Rosuvastatin calcium,10mg,Viên nén bao phim,U?ng,Viên
+809,Thùy Trang,Prevost Plus,Alendronic acid (d??i d?ng Sodium Alendronate) + Cholecalciferol (vitamin D3),70mg + 2800IU,Viên nén,U?ng,Viên
+810,Thùy Trang,Vascam,Amlodipin,5mg,Viên nén,U?ng,Viên
+811,Thùy Trang,Dianeal Low Calcium (2.5mEq/l) Peritoneal Dialysis Solution with 1.5% Dextrose,Calci Chloride + Dextrose hydrous + Magie Chloride + Natri Chloride + Natri lactate,"(18,3mg + 1,5g + 5,08mg + 538mg + 448mg)/100ml",Dung d?ch th?m phân phúc m?c,Truy?n dung d?ch l?c vào khoang b?ng,Túi 2 lít
+812,Thùy Trang,"Dianeal Low Calcium (2,5mEq/l) Peritoneal Dialysis Solution with 1.5% Dextrose",Calci Chloride + Dextrose hydrous + Magie Chloride + Natri Chloride + Natri lactate,"(18,3mg + 1,5g + 5,08mg + 538mg + 448mg)/100ml",Dung d?ch th?m phân phúc m?c,Truy?n dung d?ch l?c vào khoang b?ng,Túi 5 lít
+813,Thùy Trang,Dianeal Low Calcium (2.5mEq/l) Peritoneal Dialysis Solution with 2.5% Dextrose,Calci Chloride + Dextrose hydrous + Magie Chloride + Natri Chloride + Natri lactate,"(18,3mg + 2,5g + 5,08mg + 538mg + 448mg)/100ml",Dung d?ch th?m phân phúc m?c,Truy?n dung d?ch l?c vào khoang b?ng,Túi 2 lít
+814,Thùy Trang,Dianeal Low Calcium (2.5mEq/l) Peritoneal Dialysis Solution with 2.5% Dextrose,Calci Chloride + Dextrose hydrous + Magie Chloride + Natri Chloride + Natri lactate,"(18,3mg + 2,5g + 5,08mg + 538mg + 448mg)/100ml",Dung d?ch th?m phân phúc m?c,Truy?n dung d?ch l?c vào khoang b?ng,Túi 5 lít
+815,Thùy Trang,Dianeal Low Calcium (2.5mEq/l) Peritoneal Dialysis Solution with 4.25% Dextrose,Calci Chloride + Dextrose hydrous + Magie Chloride + Natri Chloride + Natri lactate,"(18,3mg + 4,25g + 5,08mg + 538mg + 448mg)/100ml",Dung d?ch th?m phân phúc m?c,Truy?n dung d?ch l?c vào khoang b?ng,Túi 2 lít
+816,Thùy Trang,Extraneal Peritoneal Dialysis Solution with 7.5% Icodextrin,Icodextrin + Natri clorid + Natri lactat + Calci clorid.2H2O + Magie clorid hexahydrat,"(7,5g + 538mg + 448mg + 25,7mg + 5,08mg)/100ml",Dung d?ch th?m phân phúc m?c,Truy?n dung d?ch l?c vào khoang b?ng,Túi x 2L
+817,Thùy Trang,Extraneal Peritoneal Dialysis Solution with 7.5% Icodextrin,Icodextrin + Natri clorid + Natri lactat + Calci clorid.2H2O + Magie clorid hexahydrat,"(7,5g + 538mg + 448mg + 25,7mg + 5,08mg)/100ml",Dung d?ch th?m phân phúc m?c,Truy?n dung d?ch l?c vào khoang b?ng,Túi x 2L
